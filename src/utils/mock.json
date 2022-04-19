@@ -1,0 +1,4468 @@
+[
+       {
+          "@id": "101822",
+          "@idblok": "13915",
+          "smjer": {
+             "@idsmjer": "0"
+          },
+          "predmet": {
+             "@mrkveid": "1920706",
+             "@isvuid": "",
+             "@loomenid": "",
+             "@semestar": "1",
+             "@vrsta": "3",
+             "@sifra": "DodZ",
+             "#text": "Dodatno zauzeće"
+          },
+          "nastavnik": {
+             "@mat_broj": "7",
+             "@domaci": "1",
+             "@aai": "zlo@etfos.hr",
+             "#text": "BAUMGARTNER ALFONZO"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "08:00",
+          "kraj": "09:00",
+          "prostorija": {
+             "@idprostorije": ""
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "nepoznato"
+          },
+          "dodatniopis": "Hyderabad, Indida 10/16",
+          "odradjeno": "475",
+          "planirano": "0"
+       },
+       {
+          "@id": "100426",
+          "@idblok": "19594",
+          "smjer": {
+             "@idsmjer": "59",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122884",
+             "@isvuid": "213729",
+             "@loomenid": "3539",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR202-20",
+             "#text": "Matematika II"
+          },
+          "nastavnik": {
+             "@mat_broj": "207",
+             "@domaci": "1",
+             "@aai": "akatic@etfos.hr",
+             "#text": "KATIĆ ANITA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "10",
+             "#text": "K2-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15009",
+             "#text": "PR-P"
+          },
+          "dodatniopis": [],
+          "odradjeno": "24",
+          "planirano": "30"
+       },
+       {
+          "@id": "100426",
+          "@idblok": "19594",
+          "smjer": {
+             "@idsmjer": "60",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122884",
+             "@isvuid": "213729",
+             "@loomenid": "3539",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR202-20",
+             "#text": "Matematika II"
+          },
+          "nastavnik": {
+             "@mat_broj": "207",
+             "@domaci": "1",
+             "@aai": "akatic@etfos.hr",
+             "#text": "KATIĆ ANITA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "10",
+             "#text": "K2-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15010",
+             "#text": "PR-R"
+          },
+          "dodatniopis": [],
+          "odradjeno": "24",
+          "planirano": "30"
+       },
+       {
+          "@id": "100535",
+          "@idblok": "19968",
+          "smjer": {
+             "@idsmjer": "59",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122901",
+             "@isvuid": "227916",
+             "@loomenid": "3553",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "PR404-21",
+             "#text": "Engleski jezik I"
+          },
+          "nastavnik": {
+             "@mat_broj": "249",
+             "@domaci": "1",
+             "@aai": "d1bozic@etfos.hr",
+             "#text": "BOŽIĆ-LENARD DRAGANA"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "08:00",
+          "kraj": "09:30",
+          "prostorija": {
+             "@idprostorije": "8",
+             "#text": "K2-11"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16608",
+             "#text": "PR-P1"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100490",
+          "@idblok": "20141",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122101",
+             "@isvuid": "74212",
+             "@loomenid": "3569",
+             "@semestar": "6",
+             "@vrsta": "0",
+             "@sifra": "P601",
+             "#text": "Ekonomika poduzeća"
+          },
+          "nastavnik": {
+             "@mat_broj": "203",
+             "@domaci": "1",
+             "@aai": "dcrnjac@etfos.hr",
+             "#text": "CRNJAC-MILIĆ DOMINIKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "09:30",
+          "prostorija": {
+             "@idprostorije": "1",
+             "#text": "T2-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14604",
+             "#text": "PE"
+          },
+          "dodatniopis": [],
+          "odradjeno": "22",
+          "planirano": "30"
+       },
+       {
+          "@id": "100490",
+          "@idblok": "20141",
+          "smjer": {
+             "@idsmjer": "2",
+             "#text": "Sveučilišni preddiplomski studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122101",
+             "@isvuid": "74212",
+             "@loomenid": "3569",
+             "@semestar": "6",
+             "@vrsta": "0",
+             "@sifra": "P601",
+             "#text": "Ekonomika poduzeća"
+          },
+          "nastavnik": {
+             "@mat_broj": "203",
+             "@domaci": "1",
+             "@aai": "dcrnjac@etfos.hr",
+             "#text": "CRNJAC-MILIĆ DOMINIKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "09:30",
+          "prostorija": {
+             "@idprostorije": "1",
+             "#text": "T2-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14605",
+             "#text": "PR"
+          },
+          "dodatniopis": [],
+          "odradjeno": "22",
+          "planirano": "30"
+       },
+       {
+          "@id": "100490",
+          "@idblok": "20141",
+          "smjer": {
+             "@idsmjer": "21",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok KI"
+          },
+          "predmet": {
+             "@mrkveid": "2122101",
+             "@isvuid": "74212",
+             "@loomenid": "3569",
+             "@semestar": "6",
+             "@vrsta": "0",
+             "@sifra": "P601",
+             "#text": "Ekonomika poduzeća"
+          },
+          "nastavnik": {
+             "@mat_broj": "203",
+             "@domaci": "1",
+             "@aai": "dcrnjac@etfos.hr",
+             "#text": "CRNJAC-MILIĆ DOMINIKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "09:30",
+          "prostorija": {
+             "@idprostorije": "1",
+             "#text": "T2-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14606",
+             "#text": "PK"
+          },
+          "dodatniopis": [],
+          "odradjeno": "22",
+          "planirano": "30"
+       },
+       {
+          "@id": "100577",
+          "@idblok": "20211",
+          "smjer": {
+             "@idsmjer": "31",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Elektroenergetika, izborni blok Elektroenergetski sustavi"
+          },
+          "predmet": {
+             "@mrkveid": "2122195",
+             "@isvuid": "149837",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DEa2-05",
+             "#text": "Kvaliteta i pouzdanost u elektroenergetskom sustavu"
+          },
+          "nastavnik": {
+             "@mat_broj": "34",
+             "@domaci": "1",
+             "@aai": "klaic@etfos.hr",
+             "#text": "KLAIĆ ZVONIMIR"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "6",
+             "#text": "T0-20"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15515",
+             "#text": "DEA"
+          },
+          "dodatniopis": [],
+          "odradjeno": "8",
+          "planirano": "30"
+       },
+       {
+          "@id": "100628",
+          "@idblok": "20314",
+          "smjer": {
+             "@idsmjer": "36",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122077",
+             "@isvuid": "149800",
+             "@loomenid": "3686",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DR2-01",
+             "#text": "Računalni sustavi stvarnog vremena"
+          },
+          "nastavnik": {
+             "@mat_broj": "2",
+             "@domaci": "1",
+             "@aai": "dbajer@etfos.hr",
+             "#text": "BAJER DRAŽEN"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:00",
+          "prostorija": {
+             "@idprostorije": "44",
+             "#text": "K1-9"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15463",
+             "#text": "DRA-LV1/24"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "100628",
+          "@idblok": "20314",
+          "smjer": {
+             "@idsmjer": "54",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Robotika i umjetna inteligencija"
+          },
+          "predmet": {
+             "@mrkveid": "2122077",
+             "@isvuid": "149800",
+             "@loomenid": "3686",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DR2-01",
+             "#text": "Računalni sustavi stvarnog vremena"
+          },
+          "nastavnik": {
+             "@mat_broj": "2",
+             "@domaci": "1",
+             "@aai": "dbajer@etfos.hr",
+             "#text": "BAJER DRAŽEN"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:00",
+          "prostorija": {
+             "@idprostorije": "44",
+             "#text": "K1-9"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15466",
+             "#text": "DRB2-LV1/2"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "100647",
+          "@idblok": "20326",
+          "smjer": {
+             "@idsmjer": "33",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Elektroenergetika, izborni blok Industrijska elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122603",
+             "@isvuid": "149742",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DEc2-05",
+             "#text": "Industrijska mjerenja"
+          },
+          "nastavnik": {
+             "@mat_broj": "93",
+             "@domaci": "1",
+             "@aai": "zspoljar@etfos.hr",
+             "#text": "ŠPOLJARIĆ ŽELJKO"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:00",
+          "prostorija": {
+             "@idprostorije": "16",
+             "#text": "T1-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15558",
+             "#text": "DEC-LV1/16"
+          },
+          "dodatniopis": [],
+          "odradjeno": "4",
+          "planirano": "15"
+       },
+       {
+          "@id": "100641",
+          "@idblok": "20332",
+          "smjer": {
+             "@idsmjer": "38",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122608",
+             "@isvuid": "149805 149806 205913",
+             "@loomenid": "3719",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DRcKb2-05",
+             "#text": "Razvoj mobilnih aplikacija"
+          },
+          "nastavnik": {
+             "@mat_broj": "132",
+             "@domaci": "1",
+             "@aai": "bzoric1@etfos.hr",
+             "#text": "ZORIĆ BRUNO"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:00",
+          "prostorija": {
+             "@idprostorije": "29",
+             "#text": "K1-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15580",
+             "#text": "DRC-LV1/16"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "16"
+       },
+       {
+          "@id": "100599",
+          "@idblok": "20336",
+          "smjer": {
+             "@idsmjer": "35",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Komunikacije i informatika, izborni blok Mrežne tehnologije"
+          },
+          "predmet": {
+             "@mrkveid": "2122609",
+             "@isvuid": "149783 177869",
+             "@loomenid": "5272",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DAKb2-04",
+             "#text": "Objektno programiranje"
+          },
+          "nastavnik": {
+             "@mat_broj": "246",
+             "@domaci": "1",
+             "@aai": "nyarko@etfos.hr",
+             "#text": "NYARKO EMMANUEL-KARLO"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:00",
+          "prostorija": {
+             "@idprostorije": "26",
+             "#text": "K3-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16672",
+             "#text": "DKB-LV2/16"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "15"
+       },
+       {
+          "@id": "100599",
+          "@idblok": "20336",
+          "smjer": {
+             "@idsmjer": "52",
+             "#text": "Sveučilišni diplomski studij Automobilsko računarstvo i komunikacije"
+          },
+          "predmet": {
+             "@mrkveid": "2122609",
+             "@isvuid": "149783 177869",
+             "@loomenid": "5272",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DAKb2-04",
+             "#text": "Objektno programiranje"
+          },
+          "nastavnik": {
+             "@mat_broj": "246",
+             "@domaci": "1",
+             "@aai": "nyarko@etfos.hr",
+             "#text": "NYARKO EMMANUEL-KARLO"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:00",
+          "prostorija": {
+             "@idprostorije": "26",
+             "#text": "K3-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15594",
+             "#text": "DA-LV1/24"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "15"
+       },
+       {
+          "@id": "100494",
+          "@idblok": "20441",
+          "smjer": {
+             "@idsmjer": "31",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Elektroenergetika, izborni blok Elektroenergetski sustavi"
+          },
+          "predmet": {
+             "@mrkveid": "2122636",
+             "@isvuid": "165841 165837 165914 177885",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "2",
+             "@sifra": "D4F-01",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15666",
+             "#text": "DEA-F"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100494",
+          "@idblok": "20441",
+          "smjer": {
+             "@idsmjer": "32",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Elektroenergetika, izborni blok Održiva elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122636",
+             "@isvuid": "165841 165837 165914 177885",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "2",
+             "@sifra": "D4F-01",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15669",
+             "#text": "DEB-F"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100494",
+          "@idblok": "20441",
+          "smjer": {
+             "@idsmjer": "33",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Elektroenergetika, izborni blok Industrijska elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122636",
+             "@isvuid": "165841 165837 165914 177885",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "2",
+             "@sifra": "D4F-01",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15671",
+             "#text": "DEC-F"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100494",
+          "@idblok": "20441",
+          "smjer": {
+             "@idsmjer": "34",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Komunikacije i informatika, izborni blok Komunikacijske tehnologije"
+          },
+          "predmet": {
+             "@mrkveid": "2122636",
+             "@isvuid": "165841 165837 165914 177885",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "2",
+             "@sifra": "D4F-01",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15673",
+             "#text": "DKA-F"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100494",
+          "@idblok": "20441",
+          "smjer": {
+             "@idsmjer": "35",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Komunikacije i informatika, izborni blok Mrežne tehnologije"
+          },
+          "predmet": {
+             "@mrkveid": "2122636",
+             "@isvuid": "165841 165837 165914 177885",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "2",
+             "@sifra": "D4F-01",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15675",
+             "#text": "DKB-F"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100494",
+          "@idblok": "20441",
+          "smjer": {
+             "@idsmjer": "36",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122636",
+             "@isvuid": "165841 165837 165914 177885",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "2",
+             "@sifra": "D4F-01",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15677",
+             "#text": "DRA-F"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100494",
+          "@idblok": "20441",
+          "smjer": {
+             "@idsmjer": "38",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122636",
+             "@isvuid": "165841 165837 165914 177885",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "2",
+             "@sifra": "D4F-01",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15681",
+             "#text": "DRC-F"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100494",
+          "@idblok": "20441",
+          "smjer": {
+             "@idsmjer": "39",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Informacijske i podatkovne znanosti"
+          },
+          "predmet": {
+             "@mrkveid": "2122636",
+             "@isvuid": "165841 165837 165914 177885",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "2",
+             "@sifra": "D4F-01",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15683",
+             "#text": "DRD-F"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100494",
+          "@idblok": "20441",
+          "smjer": {
+             "@idsmjer": "52",
+             "#text": "Sveučilišni diplomski studij Automobilsko računarstvo i komunikacije"
+          },
+          "predmet": {
+             "@mrkveid": "2122636",
+             "@isvuid": "165841 165837 165914 177885",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "2",
+             "@sifra": "D4F-01",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15665",
+             "#text": "DA-F"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100494",
+          "@idblok": "20441",
+          "smjer": {
+             "@idsmjer": "54",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Robotika i umjetna inteligencija"
+          },
+          "predmet": {
+             "@mrkveid": "2122636",
+             "@isvuid": "165841 165837 165914 177885",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "2",
+             "@sifra": "D4F-01",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15679",
+             "#text": "DRB2-F"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100414",
+          "@idblok": "20596",
+          "smjer": {
+             "@idsmjer": "53",
+             "#text": "Stručni studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122664",
+             "@isvuid": "175228 186210",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "SR201-17",
+             "#text": "Programiranje 2"
+          },
+          "nastavnik": {
+             "@mat_broj": "326",
+             "@domaci": "1",
+             "@aai": "rsojo@etfos.hr",
+             "#text": "ŠOJO ROBERT"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:00",
+          "prostorija": {
+             "@idprostorije": "13",
+             "#text": "T3-27"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16062",
+             "#text": "SR-LV2/24"
+          },
+          "dodatniopis": [],
+          "odradjeno": "24",
+          "planirano": "45"
+       },
+       {
+          "@id": "100702",
+          "@idblok": "20673",
+          "smjer": {
+             "@idsmjer": "8",
+             "#text": "Stručni studij elektrotehnike, smjer Automatika"
+          },
+          "predmet": {
+             "@mrkveid": "2122147",
+             "@isvuid": "41140",
+             "@loomenid": "3601",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "SAE401",
+             "#text": "Materijali i tehnološki postupci"
+          },
+          "nastavnik": {
+             "@mat_broj": "12",
+             "@domaci": "1",
+             "@aai": "dbuljic@etfos.hr",
+             "#text": "BULJIĆ DALIBOR"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "08:00",
+          "kraj": "09:30",
+          "prostorija": {
+             "@idprostorije": "17",
+             "#text": "T1-23"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15916",
+             "#text": "SA-LV1/16"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100495",
+          "@idblok": "20748",
+          "smjer": {
+             "@idsmjer": "8",
+             "#text": "Stručni studij elektrotehnike, smjer Automatika"
+          },
+          "predmet": {
+             "@mrkveid": "2122637",
+             "@isvuid": "165847 217838",
+             "@loomenid": "",
+             "@semestar": "6",
+             "@vrsta": "2",
+             "@sifra": "SF601",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16012",
+             "#text": "SA"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100495",
+          "@idblok": "20748",
+          "smjer": {
+             "@idsmjer": "9",
+             "#text": "Stručni studij elektrotehnike, smjer Elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122637",
+             "@isvuid": "165847 217838",
+             "@loomenid": "",
+             "@semestar": "6",
+             "@vrsta": "2",
+             "@sifra": "SF601",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16014",
+             "#text": "SE"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100495",
+          "@idblok": "20748",
+          "smjer": {
+             "@idsmjer": "53",
+             "#text": "Stručni studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122637",
+             "@isvuid": "165847 217838",
+             "@loomenid": "",
+             "@semestar": "6",
+             "@vrsta": "2",
+             "@sifra": "SF601",
+             "#text": "Njemački jezik"
+          },
+          "nastavnik": {
+             "@mat_broj": "18",
+             "@domaci": "1",
+             "@aai": "ivanka@etfos.hr",
+             "#text": "FERČEC IVANKA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16013",
+             "#text": "SR"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100788",
+          "@idblok": "20809",
+          "smjer": {
+             "@idsmjer": "53",
+             "#text": "Stručni studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122693",
+             "@isvuid": "175215 217832",
+             "@loomenid": "",
+             "@semestar": "6",
+             "@vrsta": "1",
+             "@sifra": "SIR601-17",
+             "#text": "Dizajn korisničkog sučelja"
+          },
+          "nastavnik": {
+             "@mat_broj": "259",
+             "@domaci": "1",
+             "@aai": "kromic@etfos.hr",
+             "#text": "ROMIĆ KREŠIMIR"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "08:00",
+          "kraj": "11:00",
+          "prostorija": {
+             "@idprostorije": "28",
+             "#text": "K3-13"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16209",
+             "#text": "SR-LV1/24"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "101924",
+          "@idblok": "20941",
+          "smjer": {
+             "@idsmjer": "0"
+          },
+          "predmet": {
+             "@mrkveid": "1920706",
+             "@isvuid": "",
+             "@loomenid": "",
+             "@semestar": "1",
+             "@vrsta": "3",
+             "@sifra": "DodZ",
+             "#text": "Dodatno zauzeće"
+          },
+          "nastavnik": {
+             "@mat_broj": "410",
+             "@domaci": "1",
+             "@aai": "tvarga@etfos.hr",
+             "#text": "VARGA TONI"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "08:00",
+          "kraj": "20:00",
+          "prostorija": {
+             "@idprostorije": "7",
+             "#text": "T0-30"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "nepoznato"
+          },
+          "dodatniopis": "HRZZ COPESOC Labos",
+          "odradjeno": "315",
+          "planirano": "0"
+       },
+       {
+          "@id": "101797",
+          "@idblok": "13915",
+          "smjer": {
+             "@idsmjer": "0"
+          },
+          "predmet": {
+             "@mrkveid": "1920706",
+             "@isvuid": "",
+             "@loomenid": "",
+             "@semestar": "1",
+             "@vrsta": "3",
+             "@sifra": "DodZ",
+             "#text": "Dodatno zauzeće"
+          },
+          "nastavnik": {
+             "@mat_broj": "7",
+             "@domaci": "1",
+             "@aai": "zlo@etfos.hr",
+             "#text": "BAUMGARTNER ALFONZO"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "09:00",
+          "kraj": "12:00",
+          "prostorija": {
+             "@idprostorije": ""
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "nepoznato"
+          },
+          "dodatniopis": "Algebra 28/80",
+          "odradjeno": "475",
+          "planirano": "0"
+       },
+       {
+          "@id": "101866",
+          "@idblok": "17704",
+          "smjer": {
+             "@idsmjer": "0"
+          },
+          "predmet": {
+             "@mrkveid": "2122706",
+             "@isvuid": "",
+             "@loomenid": "",
+             "@semestar": "1",
+             "@vrsta": "3",
+             "@sifra": "DodZ",
+             "#text": "Dodatno zauzeće"
+          },
+          "nastavnik": {
+             "@mat_broj": "",
+             "@domaci": "1",
+             "@aai": ""
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "09:00",
+          "kraj": "10:00",
+          "prostorija": {
+             "@idprostorije": "21",
+             "#text": "T0-33"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "nepoznato"
+          },
+          "dodatniopis": "T. Ember",
+          "odradjeno": "1741",
+          "planirano": "0"
+       },
+       {
+          "@id": "100717",
+          "@idblok": "20863",
+          "smjer": {
+             "@idsmjer": "62",
+             "#text": "Stručni studij računarstva - Vinkovci"
+          },
+          "predmet": {
+             "@mrkveid": "2122920",
+             "@isvuid": "229986",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "SR201-17_vk",
+             "#text": "Programiranje 2"
+          },
+          "nastavnik": {
+             "@mat_broj": "210",
+             "@domaci": "1",
+             "@aai": "nenadic@etfos.hr",
+             "#text": "NENADIĆ KREŠIMIR"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "09:00",
+          "kraj": "14:00",
+          "prostorija": {
+             "@idprostorije": "214",
+             "#text": "VK-P1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16661",
+             "#text": "SR-VK"
+          },
+          "dodatniopis": [],
+          "odradjeno": "30",
+          "planirano": "45"
+       },
+       {
+          "@id": "100529",
+          "@idblok": "19949",
+          "smjer": {
+             "@idsmjer": "21",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok KI"
+          },
+          "predmet": {
+             "@mrkveid": "2122098",
+             "@isvuid": "41077",
+             "@loomenid": "3553",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "P404",
+             "#text": "Engleski jezik I"
+          },
+          "nastavnik": {
+             "@mat_broj": "38",
+             "@domaci": "1",
+             "@aai": "yvonne@etfos.hr",
+             "#text": "LIERMANN-ZELJAK YVONNE"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "09:45",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "11",
+             "#text": "K1-16"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14630",
+             "#text": "PK"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100536",
+          "@idblok": "19969",
+          "smjer": {
+             "@idsmjer": "59",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122901",
+             "@isvuid": "227916",
+             "@loomenid": "3553",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "PR404-21",
+             "#text": "Engleski jezik I"
+          },
+          "nastavnik": {
+             "@mat_broj": "249",
+             "@domaci": "1",
+             "@aai": "d1bozic@etfos.hr",
+             "#text": "BOŽIĆ-LENARD DRAGANA"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "09:45",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "8",
+             "#text": "K2-11"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16669",
+             "#text": "PR-P2"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100491",
+          "@idblok": "20159",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122101",
+             "@isvuid": "74212",
+             "@loomenid": "3569",
+             "@semestar": "6",
+             "@vrsta": "0",
+             "@sifra": "P601",
+             "#text": "Ekonomika poduzeća"
+          },
+          "nastavnik": {
+             "@mat_broj": "203",
+             "@domaci": "1",
+             "@aai": "dcrnjac@etfos.hr",
+             "#text": "CRNJAC-MILIĆ DOMINIKA"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "09:45",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "1",
+             "#text": "T2-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14607",
+             "#text": "PE"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100491",
+          "@idblok": "20159",
+          "smjer": {
+             "@idsmjer": "2",
+             "#text": "Sveučilišni preddiplomski studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122101",
+             "@isvuid": "74212",
+             "@loomenid": "3569",
+             "@semestar": "6",
+             "@vrsta": "0",
+             "@sifra": "P601",
+             "#text": "Ekonomika poduzeća"
+          },
+          "nastavnik": {
+             "@mat_broj": "203",
+             "@domaci": "1",
+             "@aai": "dcrnjac@etfos.hr",
+             "#text": "CRNJAC-MILIĆ DOMINIKA"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "09:45",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "1",
+             "#text": "T2-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14608",
+             "#text": "PR"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100491",
+          "@idblok": "20159",
+          "smjer": {
+             "@idsmjer": "21",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok KI"
+          },
+          "predmet": {
+             "@mrkveid": "2122101",
+             "@isvuid": "74212",
+             "@loomenid": "3569",
+             "@semestar": "6",
+             "@vrsta": "0",
+             "@sifra": "P601",
+             "#text": "Ekonomika poduzeća"
+          },
+          "nastavnik": {
+             "@mat_broj": "203",
+             "@domaci": "1",
+             "@aai": "dcrnjac@etfos.hr",
+             "#text": "CRNJAC-MILIĆ DOMINIKA"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "09:45",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "1",
+             "#text": "T2-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14609",
+             "#text": "PK"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100703",
+          "@idblok": "20671",
+          "smjer": {
+             "@idsmjer": "9",
+             "#text": "Stručni studij elektrotehnike, smjer Elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122147",
+             "@isvuid": "41140",
+             "@loomenid": "3601",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "SAE401",
+             "#text": "Materijali i tehnološki postupci"
+          },
+          "nastavnik": {
+             "@mat_broj": "123",
+             "@domaci": "1",
+             "@aai": "grozing@etfos.hr",
+             "#text": "ROZING GORAN"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "09:45",
+          "kraj": "11:15",
+          "prostorija": {
+             "@idprostorije": "17",
+             "#text": "T1-23"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15917",
+             "#text": "SE-LV1/16"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "101756",
+          "@idblok": "17704",
+          "smjer": {
+             "@idsmjer": "0"
+          },
+          "predmet": {
+             "@mrkveid": "2122706",
+             "@isvuid": "",
+             "@loomenid": "",
+             "@semestar": "1",
+             "@vrsta": "3",
+             "@sifra": "DodZ",
+             "#text": "Dodatno zauzeće"
+          },
+          "nastavnik": {
+             "@mat_broj": "",
+             "@domaci": "1",
+             "@aai": ""
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "11:15",
+          "kraj": "12:30",
+          "prostorija": {
+             "@idprostorije": "15",
+             "#text": "T3-18"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "nepoznato"
+          },
+          "dodatniopis": "V. Mandrić",
+          "odradjeno": "1741",
+          "planirano": "0"
+       },
+       {
+          "@id": "100600",
+          "@idblok": "20335",
+          "smjer": {
+             "@idsmjer": "35",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Komunikacije i informatika, izborni blok Mrežne tehnologije"
+          },
+          "predmet": {
+             "@mrkveid": "2122609",
+             "@isvuid": "149783 177869",
+             "@loomenid": "5272",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DAKb2-04",
+             "#text": "Objektno programiranje"
+          },
+          "nastavnik": {
+             "@mat_broj": "246",
+             "@domaci": "1",
+             "@aai": "nyarko@etfos.hr",
+             "#text": "NYARKO EMMANUEL-KARLO"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "11:15",
+          "kraj": "14:15",
+          "prostorija": {
+             "@idprostorije": "26",
+             "#text": "K3-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15592",
+             "#text": "DKB-LV1/16"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "15"
+       },
+       {
+          "@id": "100399",
+          "@idblok": "19591",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122652",
+             "@isvuid": "37113",
+             "@loomenid": "3535",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PE203",
+             "#text": "Fizika II"
+          },
+          "nastavnik": {
+             "@mat_broj": "401",
+             "@domaci": "1",
+             "@aai": "mskender@etfos.hr",
+             "#text": "SKENDER MARINA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "1",
+             "#text": "T2-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14894",
+             "#text": "PE-1"
+          },
+          "dodatniopis": [],
+          "odradjeno": "28",
+          "planirano": "45"
+       },
+       {
+          "@id": "100399",
+          "@idblok": "19591",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122652",
+             "@isvuid": "37113",
+             "@loomenid": "3535",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PE203",
+             "#text": "Fizika II"
+          },
+          "nastavnik": {
+             "@mat_broj": "401",
+             "@domaci": "1",
+             "@aai": "mskender@etfos.hr",
+             "#text": "SKENDER MARINA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "1",
+             "#text": "T2-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16603",
+             "#text": "PE-2"
+          },
+          "dodatniopis": [],
+          "odradjeno": "28",
+          "planirano": "45"
+       },
+       {
+          "@id": "100459",
+          "@idblok": "19628",
+          "smjer": {
+             "@idsmjer": "60",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122888",
+             "@isvuid": "213734",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR-R202-20",
+             "#text": "Fizika"
+          },
+          "nastavnik": {
+             "@mat_broj": "250",
+             "@domaci": "1",
+             "@aai": "d1bosnjakovic@etfos.hr",
+             "#text": "BOŠNJAKOVIĆ DEJAN"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "11:30",
+          "kraj": "13:00",
+          "prostorija": {
+             "@idprostorije": "8",
+             "#text": "K2-11"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15031",
+             "#text": "PR-R"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100482",
+          "@idblok": "19815",
+          "smjer": {
+             "@idsmjer": "59",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122875",
+             "@isvuid": "213730",
+             "@loomenid": "3550",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR201-20",
+             "#text": "Digitalna elektronika"
+          },
+          "nastavnik": {
+             "@mat_broj": "95",
+             "@domaci": "1",
+             "@aai": "tmatic1@etfos.hr",
+             "#text": "MATIĆ TOMISLAV (ml.)"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:00",
+          "prostorija": {
+             "@idprostorije": "44",
+             "#text": "K1-9"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14939",
+             "#text": "PR-P-LV2/1"
+          },
+          "dodatniopis": [],
+          "odradjeno": "9",
+          "planirano": "15"
+       },
+       {
+          "@id": "100530",
+          "@idblok": "19920",
+          "smjer": {
+             "@idsmjer": "59",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122903",
+             "@isvuid": "227915",
+             "@loomenid": "3562",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "PR403-21",
+             "#text": "Signali i sustavi"
+          },
+          "nastavnik": {
+             "@mat_broj": "102",
+             "@domaci": "1",
+             "@aai": "irena@etfos.hr",
+             "#text": "GALIĆ IRENA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "10",
+             "#text": "K2-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14636",
+             "#text": "PR-P"
+          },
+          "dodatniopis": [],
+          "odradjeno": "24",
+          "planirano": "30"
+       },
+       {
+          "@id": "100530",
+          "@idblok": "19920",
+          "smjer": {
+             "@idsmjer": "60",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122903",
+             "@isvuid": "227915",
+             "@loomenid": "3562",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "PR403-21",
+             "#text": "Signali i sustavi"
+          },
+          "nastavnik": {
+             "@mat_broj": "102",
+             "@domaci": "1",
+             "@aai": "irena@etfos.hr",
+             "#text": "GALIĆ IRENA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "10",
+             "#text": "K2-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16639",
+             "#text": "PR-R"
+          },
+          "dodatniopis": [],
+          "odradjeno": "24",
+          "planirano": "30"
+       },
+       {
+          "@id": "100607",
+          "@idblok": "20190",
+          "smjer": {
+             "@idsmjer": "33",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Elektroenergetika, izborni blok Industrijska elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122007",
+             "@isvuid": "149729",
+             "@loomenid": "3647",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DEc2-02",
+             "#text": "Električni pogoni"
+          },
+          "nastavnik": {
+             "@mat_broj": "318",
+             "@domaci": "1",
+             "@aai": "tbensic@etfos.hr",
+             "#text": "BENŠIĆ TIN"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "20",
+             "#text": "T0-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15053",
+             "#text": "DEC"
+          },
+          "dodatniopis": [],
+          "odradjeno": "30",
+          "planirano": "30"
+       },
+       {
+          "@id": "100591",
+          "@idblok": "20196",
+          "smjer": {
+             "@idsmjer": "32",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Elektroenergetika, izborni blok Održiva elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122020",
+             "@isvuid": "149785",
+             "@loomenid": "3676",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DEb2-05",
+             "#text": "Obnovljivi izvori električne energije"
+          },
+          "nastavnik": {
+             "@mat_broj": "68",
+             "@domaci": "1",
+             "@aai": "sljivac@etfos.hr",
+             "#text": "ŠLJIVAC DAMIR"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "5",
+             "#text": "T2-26"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15183",
+             "#text": "DEB"
+          },
+          "dodatniopis": [],
+          "odradjeno": "24",
+          "planirano": "45"
+       },
+       {
+          "@id": "100582",
+          "@idblok": "20290",
+          "smjer": {
+             "@idsmjer": "31",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Elektroenergetika, izborni blok Elektroenergetski sustavi"
+          },
+          "predmet": {
+             "@mrkveid": "2122022",
+             "@isvuid": "149811",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DEa2-04",
+             "#text": "Sklopni aparati i visokonaponska tehnika"
+          },
+          "nastavnik": {
+             "@mat_broj": "455",
+             "@domaci": "1",
+             "@aai": "nmisljenovic8@etfos.hr",
+             "#text": "MIŠLJENOVIĆ NEMANJA"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "11:30",
+          "kraj": "13:00",
+          "prostorija": {
+             "@idprostorije": "19",
+             "#text": "T1-27"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15193",
+             "#text": "DEA-LV1/16"
+          },
+          "dodatniopis": [],
+          "odradjeno": "4",
+          "planirano": "15"
+       },
+       {
+          "@id": "100707",
+          "@idblok": "20430",
+          "smjer": {
+             "@idsmjer": "36",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122075",
+             "@isvuid": "149725 190633",
+             "@loomenid": "3642",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "DR4I-10-18",
+             "#text": "Diskretna matematika"
+          },
+          "nastavnik": {
+             "@mat_broj": "112",
+             "@domaci": "1",
+             "@aai": "trudec@etfos.hr",
+             "#text": "RUDEC TOMISLAV"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "13:00",
+          "prostorija": {
+             "@idprostorije": "11",
+             "#text": "K1-16"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15446",
+             "#text": "DRA"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "30"
+       },
+       {
+          "@id": "100707",
+          "@idblok": "20430",
+          "smjer": {
+             "@idsmjer": "38",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122075",
+             "@isvuid": "149725 190633",
+             "@loomenid": "3642",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "DR4I-10-18",
+             "#text": "Diskretna matematika"
+          },
+          "nastavnik": {
+             "@mat_broj": "112",
+             "@domaci": "1",
+             "@aai": "trudec@etfos.hr",
+             "#text": "RUDEC TOMISLAV"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "13:00",
+          "prostorija": {
+             "@idprostorije": "11",
+             "#text": "K1-16"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15442",
+             "#text": "DRC"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "30"
+       },
+       {
+          "@id": "100707",
+          "@idblok": "20430",
+          "smjer": {
+             "@idsmjer": "39",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Informacijske i podatkovne znanosti"
+          },
+          "predmet": {
+             "@mrkveid": "2122075",
+             "@isvuid": "149725 190633",
+             "@loomenid": "3642",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "DR4I-10-18",
+             "#text": "Diskretna matematika"
+          },
+          "nastavnik": {
+             "@mat_broj": "112",
+             "@domaci": "1",
+             "@aai": "trudec@etfos.hr",
+             "#text": "RUDEC TOMISLAV"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "13:00",
+          "prostorija": {
+             "@idprostorije": "11",
+             "#text": "K1-16"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15445",
+             "#text": "DRD"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "30"
+       },
+       {
+          "@id": "100707",
+          "@idblok": "20430",
+          "smjer": {
+             "@idsmjer": "54",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Robotika i umjetna inteligencija"
+          },
+          "predmet": {
+             "@mrkveid": "2122075",
+             "@isvuid": "149725 190633",
+             "@loomenid": "3642",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "DR4I-10-18",
+             "#text": "Diskretna matematika"
+          },
+          "nastavnik": {
+             "@mat_broj": "112",
+             "@domaci": "1",
+             "@aai": "trudec@etfos.hr",
+             "#text": "RUDEC TOMISLAV"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "13:00",
+          "prostorija": {
+             "@idprostorije": "11",
+             "#text": "K1-16"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15448",
+             "#text": "DRB2"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "30"
+       },
+       {
+          "@id": "100415",
+          "@idblok": "20594",
+          "smjer": {
+             "@idsmjer": "53",
+             "#text": "Stručni studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122664",
+             "@isvuid": "175228 186210",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "SR201-17",
+             "#text": "Programiranje 2"
+          },
+          "nastavnik": {
+             "@mat_broj": "326",
+             "@domaci": "1",
+             "@aai": "rsojo@etfos.hr",
+             "#text": "ŠOJO ROBERT"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:30",
+          "prostorija": {
+             "@idprostorije": "13",
+             "#text": "T3-27"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16060",
+             "#text": "SR-LV3/24"
+          },
+          "dodatniopis": [],
+          "odradjeno": "24",
+          "planirano": "45"
+       },
+       {
+          "@id": "100673",
+          "@idblok": "20630",
+          "smjer": {
+             "@idsmjer": "8",
+             "#text": "Stručni studij elektrotehnike, smjer Automatika"
+          },
+          "predmet": {
+             "@mrkveid": "2122675",
+             "@isvuid": "149348",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "SIAE401-17",
+             "#text": "Recikliranje elektrotehničkih proizvoda"
+          },
+          "nastavnik": {
+             "@mat_broj": "123",
+             "@domaci": "1",
+             "@aai": "grozing@etfos.hr",
+             "#text": "ROZING GORAN"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "13:00",
+          "prostorija": {
+             "@idprostorije": "6",
+             "#text": "T0-20"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16118",
+             "#text": "SA"
+          },
+          "dodatniopis": [],
+          "odradjeno": "18",
+          "planirano": "30"
+       },
+       {
+          "@id": "100673",
+          "@idblok": "20630",
+          "smjer": {
+             "@idsmjer": "9",
+             "#text": "Stručni studij elektrotehnike, smjer Elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122675",
+             "@isvuid": "149348",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "SIAE401-17",
+             "#text": "Recikliranje elektrotehničkih proizvoda"
+          },
+          "nastavnik": {
+             "@mat_broj": "123",
+             "@domaci": "1",
+             "@aai": "grozing@etfos.hr",
+             "#text": "ROZING GORAN"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "13:00",
+          "prostorija": {
+             "@idprostorije": "6",
+             "#text": "T0-20"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16122",
+             "#text": "SE"
+          },
+          "dodatniopis": [],
+          "odradjeno": "18",
+          "planirano": "30"
+       },
+       {
+          "@id": "100739",
+          "@idblok": "20657",
+          "smjer": {
+             "@idsmjer": "53",
+             "#text": "Stručni studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122337",
+             "@isvuid": "149330 205567",
+             "@loomenid": "3615",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "SR402-15",
+             "#text": "Baze podataka"
+          },
+          "nastavnik": {
+             "@mat_broj": "467",
+             "@domaci": "1",
+             "@aai": "zstanfel@etfos.hr",
+             "#text": "ŠTANFEL ŽELJKO"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:30",
+          "prostorija": {
+             "@idprostorije": "27",
+             "#text": "K3-12"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15992",
+             "#text": "SR-LV1/24"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "100785",
+          "@idblok": "20746",
+          "smjer": {
+             "@idsmjer": "53",
+             "#text": "Stručni studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122187",
+             "@isvuid": "41154 175277 217829",
+             "@loomenid": "3626",
+             "@semestar": "6",
+             "@vrsta": "0",
+             "@sifra": "SR601",
+             "#text": "Multimedijska tehnika"
+          },
+          "nastavnik": {
+             "@mat_broj": "131",
+             "@domaci": "1",
+             "@aai": "mvranjes@etfos.hr",
+             "#text": "VRANJEŠ MARIO"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "2",
+             "#text": "T2-14"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15978",
+             "#text": "SR"
+          },
+          "dodatniopis": [],
+          "odradjeno": "28",
+          "planirano": "45"
+       },
+       {
+          "@id": "100749",
+          "@idblok": "20749",
+          "smjer": {
+             "@idsmjer": "9",
+             "#text": "Stručni studij elektrotehnike, smjer Elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122674",
+             "@isvuid": "175286",
+             "@loomenid": "",
+             "@semestar": "6",
+             "@vrsta": "0",
+             "@sifra": "SE603-17",
+             "#text": "Tehnologije obnovljivih izvora energije"
+          },
+          "nastavnik": {
+             "@mat_broj": "122",
+             "@domaci": "1",
+             "@aai": "dtopic@etfos.hr",
+             "#text": "TOPIĆ DANIJEL"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "11:30",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "4",
+             "#text": "T2-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16114",
+             "#text": "SE"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "30"
+       },
+       {
+          "@id": "100516",
+          "@idblok": "19952",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122097",
+             "@isvuid": "74048",
+             "@loomenid": "3562",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "P403",
+             "#text": "Signali i sustavi"
+          },
+          "nastavnik": {
+             "@mat_broj": "113",
+             "@domaci": "1",
+             "@aai": "clivada@etfos.hr",
+             "#text": "LIVADA ČASLAV"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "12:00",
+          "kraj": "13:30",
+          "prostorija": {
+             "@idprostorije": "217",
+             "#text": "FAZOS Aula Media"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14639",
+             "#text": "PE"
+          },
+          "dodatniopis": "Kontrolna zadaća",
+          "odradjeno": "8",
+          "planirano": "15"
+       },
+       {
+          "@id": "100516",
+          "@idblok": "19952",
+          "smjer": {
+             "@idsmjer": "21",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok KI"
+          },
+          "predmet": {
+             "@mrkveid": "2122097",
+             "@isvuid": "74048",
+             "@loomenid": "3562",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "P403",
+             "#text": "Signali i sustavi"
+          },
+          "nastavnik": {
+             "@mat_broj": "113",
+             "@domaci": "1",
+             "@aai": "clivada@etfos.hr",
+             "#text": "LIVADA ČASLAV"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "12:00",
+          "kraj": "13:30",
+          "prostorija": {
+             "@idprostorije": "217",
+             "#text": "FAZOS Aula Media"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14640",
+             "#text": "PK"
+          },
+          "dodatniopis": "Kontrolna zadaća",
+          "odradjeno": "8",
+          "planirano": "15"
+       },
+       {
+          "@id": "100626",
+          "@idblok": "20210",
+          "smjer": {
+             "@idsmjer": "36",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122077",
+             "@isvuid": "149800",
+             "@loomenid": "3686",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DR2-01",
+             "#text": "Računalni sustavi stvarnog vremena"
+          },
+          "nastavnik": {
+             "@mat_broj": "43",
+             "@domaci": "1",
+             "@aai": "gmartin@etfos.hr",
+             "#text": "MARTINOVIĆ GORAN"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "12:00",
+          "kraj": "15:15",
+          "prostorija": {
+             "@idprostorije": "204",
+             "#text": "FAZOS Aula Alta"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15464",
+             "#text": "DRA"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "100626",
+          "@idblok": "20210",
+          "smjer": {
+             "@idsmjer": "38",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122077",
+             "@isvuid": "149800",
+             "@loomenid": "3686",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DR2-01",
+             "#text": "Računalni sustavi stvarnog vremena"
+          },
+          "nastavnik": {
+             "@mat_broj": "43",
+             "@domaci": "1",
+             "@aai": "gmartin@etfos.hr",
+             "#text": "MARTINOVIĆ GORAN"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "12:00",
+          "kraj": "15:15",
+          "prostorija": {
+             "@idprostorije": "204",
+             "#text": "FAZOS Aula Alta"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15467",
+             "#text": "DRC"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "100626",
+          "@idblok": "20210",
+          "smjer": {
+             "@idsmjer": "39",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Informacijske i podatkovne znanosti"
+          },
+          "predmet": {
+             "@mrkveid": "2122077",
+             "@isvuid": "149800",
+             "@loomenid": "3686",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DR2-01",
+             "#text": "Računalni sustavi stvarnog vremena"
+          },
+          "nastavnik": {
+             "@mat_broj": "43",
+             "@domaci": "1",
+             "@aai": "gmartin@etfos.hr",
+             "#text": "MARTINOVIĆ GORAN"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "12:00",
+          "kraj": "15:15",
+          "prostorija": {
+             "@idprostorije": "204",
+             "#text": "FAZOS Aula Alta"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15469",
+             "#text": "DRD"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "100626",
+          "@idblok": "20210",
+          "smjer": {
+             "@idsmjer": "54",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Robotika i umjetna inteligencija"
+          },
+          "predmet": {
+             "@mrkveid": "2122077",
+             "@isvuid": "149800",
+             "@loomenid": "3686",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DR2-01",
+             "#text": "Računalni sustavi stvarnog vremena"
+          },
+          "nastavnik": {
+             "@mat_broj": "43",
+             "@domaci": "1",
+             "@aai": "gmartin@etfos.hr",
+             "#text": "MARTINOVIĆ GORAN"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "12:00",
+          "kraj": "15:15",
+          "prostorija": {
+             "@idprostorije": "204",
+             "#text": "FAZOS Aula Alta"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15465",
+             "#text": "DRB2"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "100744",
+          "@idblok": "20718",
+          "smjer": {
+             "@idsmjer": "53",
+             "#text": "Stručni studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122679",
+             "@isvuid": "175205 205574",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "SIR404-17",
+             "#text": "Primijenjeno strojno učenje"
+          },
+          "nastavnik": {
+             "@mat_broj": "85",
+             "@domaci": "1",
+             "@aai": "rgrbic@etfos.hr",
+             "#text": "GRBIĆ RATKO"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "12:00",
+          "kraj": "14:30",
+          "prostorija": {
+             "@idprostorije": "36",
+             "#text": "K+1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16671",
+             "#text": "SR-LV2/16"
+          },
+          "dodatniopis": [],
+          "odradjeno": "9",
+          "planirano": "30"
+       },
+       {
+          "@id": "101913",
+          "@idblok": "20990",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122114",
+             "@isvuid": "115915 74233",
+             "@loomenid": "3576",
+             "@semestar": "5",
+             "@vrsta": "0",
+             "@sifra": "PER501",
+             "#text": "Osnove automatskog upravljanja"
+          },
+          "nastavnik": {
+             "@mat_broj": "461",
+             "@domaci": "1",
+             "@aai": "vsimundic@etfos.hr",
+             "#text": "ŠIMUNDIĆ VALENTIN"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "12:00",
+          "kraj": "14:30",
+          "prostorija": {
+             "@idprostorije": "28",
+             "#text": "K3-13"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "[nepoznata grupa]"
+          },
+          "dodatniopis": "Nadoknada laboratorijskih vježbi",
+          "odradjeno": "3",
+          "planirano": "0"
+       },
+       {
+          "@id": "101914",
+          "@idblok": "20991",
+          "smjer": {
+             "@idsmjer": "2",
+             "#text": "Sveučilišni preddiplomski studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122114",
+             "@isvuid": "115915 74233",
+             "@loomenid": "3576",
+             "@semestar": "5",
+             "@vrsta": "0",
+             "@sifra": "PER501",
+             "#text": "Osnove automatskog upravljanja"
+          },
+          "nastavnik": {
+             "@mat_broj": "461",
+             "@domaci": "1",
+             "@aai": "vsimundic@etfos.hr",
+             "#text": "ŠIMUNDIĆ VALENTIN"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "12:00",
+          "kraj": "14:30",
+          "prostorija": {
+             "@idprostorije": "28",
+             "#text": "K3-13"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "[nepoznata grupa]"
+          },
+          "dodatniopis": "Nadoknada laboratorijskih vježbi",
+          "odradjeno": "3",
+          "planirano": "0"
+       },
+       {
+          "@id": "101964",
+          "@idblok": "13915",
+          "smjer": {
+             "@idsmjer": "0"
+          },
+          "predmet": {
+             "@mrkveid": "1920706",
+             "@isvuid": "",
+             "@loomenid": "",
+             "@semestar": "1",
+             "@vrsta": "3",
+             "@sifra": "DodZ",
+             "#text": "Dodatno zauzeće"
+          },
+          "nastavnik": {
+             "@mat_broj": "7",
+             "@domaci": "1",
+             "@aai": "zlo@etfos.hr",
+             "#text": "BAUMGARTNER ALFONZO"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "13:00",
+          "kraj": "14:00",
+          "prostorija": {
+             "@idprostorije": ""
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "nepoznato"
+          },
+          "dodatniopis": "Konzultacije K0-4",
+          "odradjeno": "475",
+          "planirano": "0"
+       },
+       {
+          "@id": "98881",
+          "@idblok": "17704",
+          "smjer": {
+             "@idsmjer": "0"
+          },
+          "predmet": {
+             "@mrkveid": "2122706",
+             "@isvuid": "",
+             "@loomenid": "",
+             "@semestar": "1",
+             "@vrsta": "3",
+             "@sifra": "DodZ",
+             "#text": "Dodatno zauzeće"
+          },
+          "nastavnik": {
+             "@mat_broj": "",
+             "@domaci": "1",
+             "@aai": ""
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "13:00",
+          "kraj": "20:00",
+          "prostorija": {
+             "@idprostorije": "43",
+             "#text": "K0-9 K0-10"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "nepoznato"
+          },
+          "dodatniopis": "Odjel za kemiju Ž.Mioković",
+          "odradjeno": "1741",
+          "planirano": "0"
+       },
+       {
+          "@id": "100457",
+          "@idblok": "19627",
+          "smjer": {
+             "@idsmjer": "60",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122885",
+             "@isvuid": "213731",
+             "@loomenid": "3531",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR-R201-20",
+             "#text": "Elektronika I"
+          },
+          "nastavnik": {
+             "@mat_broj": "336",
+             "@domaci": "1",
+             "@aai": "lfilipovic@etfos.hr",
+             "#text": "FILIPOVIĆ LUKA"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "13:15",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "8",
+             "#text": "K2-11"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15018",
+             "#text": "PR-R"
+          },
+          "dodatniopis": [],
+          "odradjeno": "14",
+          "planirano": "30"
+       },
+       {
+          "@id": "100583",
+          "@idblok": "20291",
+          "smjer": {
+             "@idsmjer": "31",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Elektroenergetika, izborni blok Elektroenergetski sustavi"
+          },
+          "predmet": {
+             "@mrkveid": "2122022",
+             "@isvuid": "149811",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DEa2-04",
+             "#text": "Sklopni aparati i visokonaponska tehnika"
+          },
+          "nastavnik": {
+             "@mat_broj": "455",
+             "@domaci": "1",
+             "@aai": "nmisljenovic8@etfos.hr",
+             "#text": "MIŠLJENOVIĆ NEMANJA"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "13:15",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "19",
+             "#text": "T1-27"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15194",
+             "#text": "DEA-LV2/16"
+          },
+          "dodatniopis": [],
+          "odradjeno": "4",
+          "planirano": "15"
+       },
+       {
+          "@id": "100708",
+          "@idblok": "20454",
+          "smjer": {
+             "@idsmjer": "36",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122075",
+             "@isvuid": "149725 190633",
+             "@loomenid": "3642",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "DR4I-10-18",
+             "#text": "Diskretna matematika"
+          },
+          "nastavnik": {
+             "@mat_broj": "112",
+             "@domaci": "1",
+             "@aai": "trudec@etfos.hr",
+             "#text": "RUDEC TOMISLAV"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "13:15",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "11",
+             "#text": "K1-16"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15447",
+             "#text": "DRA"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "30"
+       },
+       {
+          "@id": "100708",
+          "@idblok": "20454",
+          "smjer": {
+             "@idsmjer": "38",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122075",
+             "@isvuid": "149725 190633",
+             "@loomenid": "3642",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "DR4I-10-18",
+             "#text": "Diskretna matematika"
+          },
+          "nastavnik": {
+             "@mat_broj": "112",
+             "@domaci": "1",
+             "@aai": "trudec@etfos.hr",
+             "#text": "RUDEC TOMISLAV"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "13:15",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "11",
+             "#text": "K1-16"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15443",
+             "#text": "DRC"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "30"
+       },
+       {
+          "@id": "100708",
+          "@idblok": "20454",
+          "smjer": {
+             "@idsmjer": "39",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Informacijske i podatkovne znanosti"
+          },
+          "predmet": {
+             "@mrkveid": "2122075",
+             "@isvuid": "149725 190633",
+             "@loomenid": "3642",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "DR4I-10-18",
+             "#text": "Diskretna matematika"
+          },
+          "nastavnik": {
+             "@mat_broj": "112",
+             "@domaci": "1",
+             "@aai": "trudec@etfos.hr",
+             "#text": "RUDEC TOMISLAV"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "13:15",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "11",
+             "#text": "K1-16"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15444",
+             "#text": "DRD"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "30"
+       },
+       {
+          "@id": "100708",
+          "@idblok": "20454",
+          "smjer": {
+             "@idsmjer": "54",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Robotika i umjetna inteligencija"
+          },
+          "predmet": {
+             "@mrkveid": "2122075",
+             "@isvuid": "149725 190633",
+             "@loomenid": "3642",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "DR4I-10-18",
+             "#text": "Diskretna matematika"
+          },
+          "nastavnik": {
+             "@mat_broj": "112",
+             "@domaci": "1",
+             "@aai": "trudec@etfos.hr",
+             "#text": "RUDEC TOMISLAV"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "13:15",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "11",
+             "#text": "K1-16"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15449",
+             "#text": "DRB2"
+          },
+          "dodatniopis": [],
+          "odradjeno": "16",
+          "planirano": "30"
+       },
+       {
+          "@id": "100657",
+          "@idblok": "20518",
+          "smjer": {
+             "@idsmjer": "8",
+             "#text": "Stručni studij elektrotehnike, smjer Automatika"
+          },
+          "predmet": {
+             "@mrkveid": "2122136",
+             "@isvuid": "74056 155548 175279 186209",
+             "@loomenid": "3586",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "S203",
+             "#text": "Osnove elektronike"
+          },
+          "nastavnik": {
+             "@mat_broj": "63",
+             "@domaci": "1",
+             "@aai": "srupcic@etfos.hr",
+             "#text": "RUPČIĆ SLAVKO"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "13:15",
+          "kraj": "16:30",
+          "prostorija": {
+             "@idprostorije": "12",
+             "#text": "K1-15"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15797",
+             "#text": "SA"
+          },
+          "dodatniopis": [],
+          "odradjeno": "28",
+          "planirano": "45"
+       },
+       {
+          "@id": "100657",
+          "@idblok": "20518",
+          "smjer": {
+             "@idsmjer": "9",
+             "#text": "Stručni studij elektrotehnike, smjer Elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122136",
+             "@isvuid": "74056 155548 175279 186209",
+             "@loomenid": "3586",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "S203",
+             "#text": "Osnove elektronike"
+          },
+          "nastavnik": {
+             "@mat_broj": "63",
+             "@domaci": "1",
+             "@aai": "srupcic@etfos.hr",
+             "#text": "RUPČIĆ SLAVKO"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "13:15",
+          "kraj": "16:30",
+          "prostorija": {
+             "@idprostorije": "12",
+             "#text": "K1-15"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15798",
+             "#text": "SE"
+          },
+          "dodatniopis": [],
+          "odradjeno": "28",
+          "planirano": "45"
+       },
+       {
+          "@id": "100674",
+          "@idblok": "20649",
+          "smjer": {
+             "@idsmjer": "8",
+             "#text": "Stručni studij elektrotehnike, smjer Automatika"
+          },
+          "predmet": {
+             "@mrkveid": "2122675",
+             "@isvuid": "149348",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "SIAE401-17",
+             "#text": "Recikliranje elektrotehničkih proizvoda"
+          },
+          "nastavnik": {
+             "@mat_broj": "123",
+             "@domaci": "1",
+             "@aai": "grozing@etfos.hr",
+             "#text": "ROZING GORAN"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "13:15",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "6",
+             "#text": "T0-20"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16119",
+             "#text": "SA"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100674",
+          "@idblok": "20649",
+          "smjer": {
+             "@idsmjer": "9",
+             "#text": "Stručni studij elektrotehnike, smjer Elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122675",
+             "@isvuid": "149348",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "1",
+             "@sifra": "SIAE401-17",
+             "#text": "Recikliranje elektrotehničkih proizvoda"
+          },
+          "nastavnik": {
+             "@mat_broj": "123",
+             "@domaci": "1",
+             "@aai": "grozing@etfos.hr",
+             "#text": "ROZING GORAN"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "13:15",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "6",
+             "#text": "T0-20"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16121",
+             "#text": "SE"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100774",
+          "@idblok": "20744",
+          "smjer": {
+             "@idsmjer": "8",
+             "#text": "Stručni studij elektrotehnike, smjer Automatika"
+          },
+          "predmet": {
+             "@mrkveid": "2122149",
+             "@isvuid": "41159 62228 175284",
+             "@loomenid": "3630",
+             "@semestar": "6",
+             "@vrsta": "0",
+             "@sifra": "SA601-15",
+             "#text": "Procesna mjerenja, senzori i aktori"
+          },
+          "nastavnik": {
+             "@mat_broj": "16",
+             "@domaci": "1",
+             "@aai": "ddoric@etfos.hr",
+             "#text": "DORIĆ DRAŽEN"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "13:15",
+          "kraj": "14:45",
+          "prostorija": {
+             "@idprostorije": "21",
+             "#text": "T0-33"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15850",
+             "#text": "SA"
+          },
+          "dodatniopis": [],
+          "odradjeno": "22",
+          "planirano": "45"
+       },
+       {
+          "@id": "100517",
+          "@idblok": "19955",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122096",
+             "@isvuid": "74047",
+             "@loomenid": "3566",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "P402",
+             "#text": "Vjerojatnost i statistika"
+          },
+          "nastavnik": {
+             "@mat_broj": "350",
+             "@domaci": "1",
+             "@aai": "acorn@etfos.hr",
+             "#text": "ŠTEKO ANJA"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "13:45",
+          "kraj": "15:15",
+          "prostorija": {
+             "@idprostorije": "217",
+             "#text": "FAZOS Aula Media"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14654",
+             "#text": "PE"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "100517",
+          "@idblok": "19955",
+          "smjer": {
+             "@idsmjer": "21",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok KI"
+          },
+          "predmet": {
+             "@mrkveid": "2122096",
+             "@isvuid": "74047",
+             "@loomenid": "3566",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "P402",
+             "#text": "Vjerojatnost i statistika"
+          },
+          "nastavnik": {
+             "@mat_broj": "350",
+             "@domaci": "1",
+             "@aai": "acorn@etfos.hr",
+             "#text": "ŠTEKO ANJA"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "13:45",
+          "kraj": "15:15",
+          "prostorija": {
+             "@idprostorije": "217",
+             "#text": "FAZOS Aula Media"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14656",
+             "#text": "PK"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "101830",
+          "@idblok": "14016",
+          "smjer": {
+             "@idsmjer": "0"
+          },
+          "predmet": {
+             "@mrkveid": "1920706",
+             "@isvuid": "",
+             "@loomenid": "",
+             "@semestar": "1",
+             "@vrsta": "3",
+             "@sifra": "DodZ",
+             "#text": "Dodatno zauzeće"
+          },
+          "nastavnik": {
+             "@mat_broj": "93",
+             "@domaci": "1",
+             "@aai": "zspoljar@etfos.hr",
+             "#text": "ŠPOLJARIĆ ŽELJKO"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "15:00",
+          "kraj": "18:00",
+          "prostorija": {
+             "@idprostorije": "16",
+             "#text": "T1-21"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "nepoznato"
+          },
+          "dodatniopis": "LV",
+          "odradjeno": "7",
+          "planirano": "0"
+       },
+       {
+          "@id": "101777",
+          "@idblok": "18683",
+          "smjer": {
+             "@idsmjer": "21",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok KI"
+          },
+          "predmet": {
+             "@mrkveid": "2122122",
+             "@isvuid": "41069",
+             "@loomenid": "3550",
+             "@semestar": "3",
+             "@vrsta": "0",
+             "@sifra": "PRK301",
+             "#text": "Digitalna elektronika"
+          },
+          "nastavnik": {
+             "@mat_broj": "95",
+             "@domaci": "1",
+             "@aai": "tmatic1@etfos.hr",
+             "#text": "MATIĆ TOMISLAV (ml.)"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "15:00",
+          "kraj": "18:00",
+          "prostorija": {
+             "@idprostorije": "28",
+             "#text": "K3-13"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "[nepoznata grupa]"
+          },
+          "dodatniopis": "KZ",
+          "odradjeno": "28",
+          "planirano": "0"
+       },
+       {
+          "@id": "101775",
+          "@idblok": "19545",
+          "smjer": {
+             "@idsmjer": "59",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122875",
+             "@isvuid": "213730",
+             "@loomenid": "3550",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR201-20",
+             "#text": "Digitalna elektronika"
+          },
+          "nastavnik": {
+             "@mat_broj": "95",
+             "@domaci": "1",
+             "@aai": "tmatic1@etfos.hr",
+             "#text": "MATIĆ TOMISLAV (ml.)"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "15:00",
+          "kraj": "18:00",
+          "prostorija": {
+             "@idprostorije": "27",
+             "#text": "K3-12"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "[nepoznata grupa]"
+          },
+          "dodatniopis": "KZ",
+          "odradjeno": "50",
+          "planirano": "0"
+       },
+       {
+          "@id": "101773",
+          "@idblok": "19545",
+          "smjer": {
+             "@idsmjer": "59",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122875",
+             "@isvuid": "213730",
+             "@loomenid": "3550",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR201-20",
+             "#text": "Digitalna elektronika"
+          },
+          "nastavnik": {
+             "@mat_broj": "95",
+             "@domaci": "1",
+             "@aai": "tmatic1@etfos.hr",
+             "#text": "MATIĆ TOMISLAV (ml.)"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "15:00",
+          "kraj": "18:00",
+          "prostorija": {
+             "@idprostorije": "26",
+             "#text": "K3-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "[nepoznata grupa]"
+          },
+          "dodatniopis": "KZ",
+          "odradjeno": "50",
+          "planirano": "0"
+       },
+       {
+          "@id": "101776",
+          "@idblok": "19546",
+          "smjer": {
+             "@idsmjer": "60",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122875",
+             "@isvuid": "213730",
+             "@loomenid": "3550",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR201-20",
+             "#text": "Digitalna elektronika"
+          },
+          "nastavnik": {
+             "@mat_broj": "95",
+             "@domaci": "1",
+             "@aai": "tmatic1@etfos.hr",
+             "#text": "MATIĆ TOMISLAV (ml.)"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "15:00",
+          "kraj": "18:00",
+          "prostorija": {
+             "@idprostorije": "27",
+             "#text": "K3-12"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "[nepoznata grupa]"
+          },
+          "dodatniopis": "KZ",
+          "odradjeno": "50",
+          "planirano": "0"
+       },
+       {
+          "@id": "101774",
+          "@idblok": "19546",
+          "smjer": {
+             "@idsmjer": "60",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122875",
+             "@isvuid": "213730",
+             "@loomenid": "3550",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR201-20",
+             "#text": "Digitalna elektronika"
+          },
+          "nastavnik": {
+             "@mat_broj": "95",
+             "@domaci": "1",
+             "@aai": "tmatic1@etfos.hr",
+             "#text": "MATIĆ TOMISLAV (ml.)"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "15:00",
+          "kraj": "18:00",
+          "prostorija": {
+             "@idprostorije": "26",
+             "#text": "K3-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "[nepoznata grupa]"
+          },
+          "dodatniopis": "KZ",
+          "odradjeno": "50",
+          "planirano": "0"
+       },
+       {
+          "@id": "100411",
+          "@idblok": "19606",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122087",
+             "@isvuid": "74040",
+             "@loomenid": "3542 3543",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "P202",
+             "#text": "Osnove elektrotehnike II"
+          },
+          "nastavnik": {
+             "@mat_broj": "15",
+             "@domaci": "1",
+             "@aai": "venco@etfos.hr",
+             "#text": "ĆORLUKA VENCO"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "15:00",
+          "kraj": "16:30",
+          "prostorija": {
+             "@idprostorije": "1",
+             "#text": "T2-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14712",
+             "#text": "PE-AV1"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "100410",
+          "@idblok": "19623",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122652",
+             "@isvuid": "37113",
+             "@loomenid": "3535",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PE203",
+             "#text": "Fizika II"
+          },
+          "nastavnik": {
+             "@mat_broj": "333",
+             "@domaci": "1",
+             "@aai": "djukic@etfos.hr",
+             "#text": "JUKIĆ DINA"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "15:00",
+          "kraj": "16:30",
+          "prostorija": {
+             "@idprostorije": "2",
+             "#text": "T2-14"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14896",
+             "#text": "PE-AV2"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100531",
+          "@idblok": "19925",
+          "smjer": {
+             "@idsmjer": "59",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122649",
+             "@isvuid": "174568 190689 227918",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "PR407-21",
+             "#text": "Razvoj programske podrške objektno orijentiranim načelima"
+          },
+          "nastavnik": {
+             "@mat_broj": "132",
+             "@domaci": "1",
+             "@aai": "bzoric1@etfos.hr",
+             "#text": "ZORIĆ BRUNO"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "15:00",
+          "kraj": "16:30",
+          "prostorija": {
+             "@idprostorije": "10",
+             "#text": "K2-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14867",
+             "#text": "PR-P"
+          },
+          "dodatniopis": [],
+          "odradjeno": "10",
+          "planirano": "12"
+       },
+       {
+          "@id": "100531",
+          "@idblok": "19925",
+          "smjer": {
+             "@idsmjer": "60",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122649",
+             "@isvuid": "174568 190689 227918",
+             "@loomenid": "",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "PR407-21",
+             "#text": "Razvoj programske podrške objektno orijentiranim načelima"
+          },
+          "nastavnik": {
+             "@mat_broj": "132",
+             "@domaci": "1",
+             "@aai": "bzoric1@etfos.hr",
+             "#text": "ZORIĆ BRUNO"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "15:00",
+          "kraj": "16:30",
+          "prostorija": {
+             "@idprostorije": "10",
+             "#text": "K2-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16622",
+             "#text": "PR-R"
+          },
+          "dodatniopis": [],
+          "odradjeno": "10",
+          "planirano": "12"
+       },
+       {
+          "@id": "100594",
+          "@idblok": "20243",
+          "smjer": {
+             "@idsmjer": "32",
+             "#text": "Sveučilišni diplomski studij Elektrotehnika, smjer Elektroenergetika, izborni blok Održiva elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122020",
+             "@isvuid": "149785",
+             "@loomenid": "3676",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DEb2-05",
+             "#text": "Obnovljivi izvori električne energije"
+          },
+          "nastavnik": {
+             "@mat_broj": "329",
+             "@domaci": "1",
+             "@aai": "mznidarec@etfos.hr",
+             "#text": "ŽNIDAREC MATEJ"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "15:00",
+          "kraj": "16:30",
+          "prostorija": {
+             "@idprostorije": "5",
+             "#text": "T2-26"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15184",
+             "#text": "DEB"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100416",
+          "@idblok": "20595",
+          "smjer": {
+             "@idsmjer": "53",
+             "#text": "Stručni studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122664",
+             "@isvuid": "175228 186210",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "SR201-17",
+             "#text": "Programiranje 2"
+          },
+          "nastavnik": {
+             "@mat_broj": "326",
+             "@domaci": "1",
+             "@aai": "rsojo@etfos.hr",
+             "#text": "ŠOJO ROBERT"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "15:00",
+          "kraj": "18:00",
+          "prostorija": {
+             "@idprostorije": "13",
+             "#text": "T3-27"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16061",
+             "#text": "SR-LV1/24"
+          },
+          "dodatniopis": [],
+          "odradjeno": "24",
+          "planirano": "45"
+       },
+       {
+          "@id": "100736",
+          "@idblok": "20624",
+          "smjer": {
+             "@idsmjer": "53",
+             "#text": "Stručni studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122337",
+             "@isvuid": "149330 205567",
+             "@loomenid": "3615",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "SR402-15",
+             "#text": "Baze podataka"
+          },
+          "nastavnik": {
+             "@mat_broj": "94",
+             "@domaci": "1",
+             "@aai": "ilukic@etfos.hr",
+             "#text": "LUKIĆ IVICA"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "15:00",
+          "kraj": "18:15",
+          "prostorija": {
+             "@idprostorije": "9",
+             "#text": "K2-12"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15990",
+             "#text": "SR"
+          },
+          "dodatniopis": [],
+          "odradjeno": "24",
+          "planirano": "30"
+       },
+       {
+          "@id": "100775",
+          "@idblok": "20764",
+          "smjer": {
+             "@idsmjer": "8",
+             "#text": "Stručni studij elektrotehnike, smjer Automatika"
+          },
+          "predmet": {
+             "@mrkveid": "2122149",
+             "@isvuid": "41159 62228 175284",
+             "@loomenid": "3630",
+             "@semestar": "6",
+             "@vrsta": "0",
+             "@sifra": "SA601-15",
+             "#text": "Procesna mjerenja, senzori i aktori"
+          },
+          "nastavnik": {
+             "@mat_broj": "16",
+             "@domaci": "1",
+             "@aai": "ddoric@etfos.hr",
+             "#text": "DORIĆ DRAŽEN"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "15:00",
+          "kraj": "16:30",
+          "prostorija": {
+             "@idprostorije": "21",
+             "#text": "T0-33"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15851",
+             "#text": "SA"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100525",
+          "@idblok": "19912",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122108",
+             "@isvuid": "41082",
+             "@loomenid": "3559",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "PE401",
+             "#text": "Osnove električnih strojeva"
+          },
+          "nastavnik": {
+             "@mat_broj": "201",
+             "@domaci": "1",
+             "@aai": "baric@etfos.hr",
+             "#text": "BARIĆ TOMISLAV"
+          },
+          "vrstanastave": {
+             "@tip": "1",
+             "#text": "PR - predavanja"
+          },
+          "pocetak": "15:30",
+          "kraj": "18:45",
+          "prostorija": {
+             "@idprostorije": "217",
+             "#text": "FAZOS Aula Media"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14571",
+             "#text": "PE"
+          },
+          "dodatniopis": [],
+          "odradjeno": "32",
+          "planirano": "45"
+       },
+       {
+          "@id": "100412",
+          "@idblok": "19609",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122087",
+             "@isvuid": "74040",
+             "@loomenid": "3542 3543",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "P202",
+             "#text": "Osnove elektrotehnike II"
+          },
+          "nastavnik": {
+             "@mat_broj": "318",
+             "@domaci": "1",
+             "@aai": "tbensic@etfos.hr",
+             "#text": "BENŠIĆ TIN"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "16:45",
+          "kraj": "18:15",
+          "prostorija": {
+             "@idprostorije": "1",
+             "#text": "T2-31"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14713",
+             "#text": "PE-AV2"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "100413",
+          "@idblok": "19622",
+          "smjer": {
+             "@idsmjer": "1",
+             "#text": "Sveučilišni preddiplomski studij elektrotehnike, izb. blok EE"
+          },
+          "predmet": {
+             "@mrkveid": "2122652",
+             "@isvuid": "37113",
+             "@loomenid": "3535",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PE203",
+             "#text": "Fizika II"
+          },
+          "nastavnik": {
+             "@mat_broj": "333",
+             "@domaci": "1",
+             "@aai": "djukic@etfos.hr",
+             "#text": "JUKIĆ DINA"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "16:45",
+          "kraj": "18:15",
+          "prostorija": {
+             "@idprostorije": "2",
+             "#text": "T2-14"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14895",
+             "#text": "PE-AV1"
+          },
+          "dodatniopis": [],
+          "odradjeno": "6",
+          "planirano": "15"
+       },
+       {
+          "@id": "100658",
+          "@idblok": "20558",
+          "smjer": {
+             "@idsmjer": "8",
+             "#text": "Stručni studij elektrotehnike, smjer Automatika"
+          },
+          "predmet": {
+             "@mrkveid": "2122662",
+             "@isvuid": "160335 186211",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "S206-17",
+             "#text": "Poslovno komuniciranje"
+          },
+          "nastavnik": {
+             "@mat_broj": "143",
+             "@domaci": "0",
+             "@aai": "rasic.juraj@etfos.hr",
+             "#text": "RAŠIĆ JURAJ"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "16:45",
+          "kraj": "18:15",
+          "prostorija": {
+             "@idprostorije": "12",
+             "#text": "K1-15"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16050",
+             "#text": "SA"
+          },
+          "dodatniopis": "Kontrolna zadaća",
+          "odradjeno": "8",
+          "planirano": "15"
+       },
+       {
+          "@id": "100658",
+          "@idblok": "20558",
+          "smjer": {
+             "@idsmjer": "9",
+             "#text": "Stručni studij elektrotehnike, smjer Elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122662",
+             "@isvuid": "160335 186211",
+             "@loomenid": "",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "S206-17",
+             "#text": "Poslovno komuniciranje"
+          },
+          "nastavnik": {
+             "@mat_broj": "143",
+             "@domaci": "0",
+             "@aai": "rasic.juraj@etfos.hr",
+             "#text": "RAŠIĆ JURAJ"
+          },
+          "vrstanastave": {
+             "@tip": "3",
+             "#text": "AV - auditorne vježbe"
+          },
+          "pocetak": "16:45",
+          "kraj": "18:15",
+          "prostorija": {
+             "@idprostorije": "12",
+             "#text": "K1-15"
+          },
+          "grupastudenata": {
+             "@idgrupe": "16049",
+             "#text": "SE"
+          },
+          "dodatniopis": "Kontrolna zadaća",
+          "odradjeno": "8",
+          "planirano": "15"
+       },
+       {
+          "@id": "100643",
+          "@idblok": "20312",
+          "smjer": {
+             "@idsmjer": "38",
+             "#text": "Sveučilišni diplomski studij Računarstvo, izborni blok Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122077",
+             "@isvuid": "149800",
+             "@loomenid": "3686",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "DR2-01",
+             "#text": "Računalni sustavi stvarnog vremena"
+          },
+          "nastavnik": {
+             "@mat_broj": "426",
+             "@domaci": "1",
+             "@aai": "lomrcen@etfos.hr",
+             "#text": "OMRČEN LUKA"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "17:00",
+          "kraj": "20:00",
+          "prostorija": {
+             "@idprostorije": "44",
+             "#text": "K1-9"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15471",
+             "#text": "DRC-LV2/24"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "98916",
+          "@idblok": "19857",
+          "smjer": {
+             "@idsmjer": "59",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122887",
+             "@isvuid": "213733",
+             "@loomenid": "3547",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR204-20",
+             "#text": "Tjelesna kultura II"
+          },
+          "nastavnik": {
+             "@mat_broj": "252",
+             "@domaci": "1",
+             "@aai": "pkerze@etfos.hr",
+             "#text": "KERŽE PETAR"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "18:15",
+          "kraj": "19:45",
+          "prostorija": {
+             "@idprostorije": "37",
+             "#text": "D-GV"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15028",
+             "#text": "PR-P"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "98917",
+          "@idblok": "19858",
+          "smjer": {
+             "@idsmjer": "60",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122887",
+             "@isvuid": "213733",
+             "@loomenid": "3547",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "PR204-20",
+             "#text": "Tjelesna kultura II"
+          },
+          "nastavnik": {
+             "@mat_broj": "252",
+             "@domaci": "1",
+             "@aai": "pkerze@etfos.hr",
+             "#text": "KERŽE PETAR"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "18:15",
+          "kraj": "19:45",
+          "prostorija": {
+             "@idprostorije": "37",
+             "#text": "D-GV"
+          },
+          "grupastudenata": {
+             "@idgrupe": "15029",
+             "#text": "PR-R"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "101778",
+          "@idblok": "20975",
+          "smjer": {
+             "@idsmjer": "53",
+             "#text": "Stručni studij računarstva"
+          },
+          "predmet": {
+             "@mrkveid": "2122136",
+             "@isvuid": "74056 155548 175279 186209",
+             "@loomenid": "3586",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "S203",
+             "#text": "Osnove elektronike"
+          },
+          "nastavnik": {
+             "@mat_broj": "205",
+             "@domaci": "1",
+             "@aai": "mherceg@etfos.hr",
+             "#text": "HERCEG MARIJAN"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "18:30",
+          "kraj": "20:00",
+          "prostorija": {
+             "@idprostorije": "10",
+             "#text": "K2-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "[nepoznata grupa]"
+          },
+          "dodatniopis": "I. kolokvij teorija - studij Računarstva",
+          "odradjeno": "2",
+          "planirano": "0"
+       },
+       {
+          "@id": "101779",
+          "@idblok": "20976",
+          "smjer": {
+             "@idsmjer": "8",
+             "#text": "Stručni studij elektrotehnike, smjer Automatika"
+          },
+          "predmet": {
+             "@mrkveid": "2122136",
+             "@isvuid": "74056 155548 175279 186209",
+             "@loomenid": "3586",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "S203",
+             "#text": "Osnove elektronike"
+          },
+          "nastavnik": {
+             "@mat_broj": "205",
+             "@domaci": "1",
+             "@aai": "mherceg@etfos.hr",
+             "#text": "HERCEG MARIJAN"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "18:30",
+          "kraj": "20:00",
+          "prostorija": {
+             "@idprostorije": "10",
+             "#text": "K2-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "[nepoznata grupa]"
+          },
+          "dodatniopis": "I. kolokvij teorija - studij Računarstva",
+          "odradjeno": "2",
+          "planirano": "0"
+       },
+       {
+          "@id": "101780",
+          "@idblok": "20977",
+          "smjer": {
+             "@idsmjer": "9",
+             "#text": "Stručni studij elektrotehnike, smjer Elektroenergetika"
+          },
+          "predmet": {
+             "@mrkveid": "2122136",
+             "@isvuid": "74056 155548 175279 186209",
+             "@loomenid": "3586",
+             "@semestar": "2",
+             "@vrsta": "0",
+             "@sifra": "S203",
+             "#text": "Osnove elektronike"
+          },
+          "nastavnik": {
+             "@mat_broj": "205",
+             "@domaci": "1",
+             "@aai": "mherceg@etfos.hr",
+             "#text": "HERCEG MARIJAN"
+          },
+          "vrstanastave": {
+             "@tip": "0",
+             "#text": "Nepoznato"
+          },
+          "pocetak": "18:30",
+          "kraj": "20:00",
+          "prostorija": {
+             "@idprostorije": "10",
+             "#text": "K2-1"
+          },
+          "grupastudenata": {
+             "@idgrupe": "",
+             "#text": "[nepoznata grupa]"
+          },
+          "dodatniopis": "I. kolokvij teorija - studij Računarstva",
+          "odradjeno": "2",
+          "planirano": "0"
+       },
+       {
+          "@id": "98968",
+          "@idblok": "20114",
+          "smjer": {
+             "@idsmjer": "59",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Programsko inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122905",
+             "@isvuid": "227917",
+             "@loomenid": "3565",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "PR405-21",
+             "#text": "Tjelesna kultura IV"
+          },
+          "nastavnik": {
+             "@mat_broj": "33",
+             "@domaci": "0",
+             "@aai": "vladovic.zoran@etfos.hr",
+             "#text": "VLADOVIĆ ZORAN"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "19:15",
+          "kraj": "20:45",
+          "prostorija": {
+             "@idprostorije": "37",
+             "#text": "D-GV"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14623",
+             "#text": "PR-P"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       },
+       {
+          "@id": "98967",
+          "@idblok": "20115",
+          "smjer": {
+             "@idsmjer": "60",
+             "#text": "Sveučilišni preddiplomski studij računarstva, Računalno inženjerstvo"
+          },
+          "predmet": {
+             "@mrkveid": "2122905",
+             "@isvuid": "227917",
+             "@loomenid": "3565",
+             "@semestar": "4",
+             "@vrsta": "0",
+             "@sifra": "PR405-21",
+             "#text": "Tjelesna kultura IV"
+          },
+          "nastavnik": {
+             "@mat_broj": "33",
+             "@domaci": "0",
+             "@aai": "vladovic.zoran@etfos.hr",
+             "#text": "VLADOVIĆ ZORAN"
+          },
+          "vrstanastave": {
+             "@tip": "4",
+             "#text": "LV - laboratorijske vježbe"
+          },
+          "pocetak": "19:15",
+          "kraj": "20:45",
+          "prostorija": {
+             "@idprostorije": "37",
+             "#text": "D-GV"
+          },
+          "grupastudenata": {
+             "@idgrupe": "14624",
+             "#text": "PR-R"
+          },
+          "dodatniopis": [],
+          "odradjeno": "12",
+          "planirano": "30"
+       }
+    ]

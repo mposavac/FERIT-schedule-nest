@@ -1,0 +1,3852 @@
+{
+    "prostorije": {
+      "-npr": "209",
+      "prostorija": [
+        {
+          "-id": "1",
+          "ime": "T2-31",
+          "opis": "Predavaonica",
+          "kapacitet": "279",
+          "covidkap": "168",
+          "zgrada": "1",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "289",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "2",
+          "ime": "T2-14",
+          "opis": "Predavaonica",
+          "kapacitet": "101",
+          "covidkap": "53",
+          "zgrada": "1",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "101",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "3",
+          "ime": "T2-23",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "4",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "27.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "4",
+          "ime": "T2-21",
+          "opis": "Predavaonica",
+          "kapacitet": "46",
+          "covidkap": "20",
+          "zgrada": "1",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "55",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "5",
+          "ime": "T2-26",
+          "opis": "Učionica",
+          "kapacitet": "40",
+          "covidkap": "22",
+          "zgrada": "1",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "55",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "6",
+          "ime": "T0-20",
+          "opis": "Videokonferencijska dvorana",
+          "kapacitet": "68",
+          "covidkap": "34",
+          "zgrada": "1",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "82.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "7",
+          "ime": "T0-30",
+          "opis": "Predavaonica",
+          "kapacitet": "32",
+          "covidkap": "17",
+          "zgrada": "1",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "41.2",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "8",
+          "ime": "K2-11",
+          "opis": "Predavaonica",
+          "kapacitet": "100",
+          "covidkap": "55",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "85.2",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "9",
+          "ime": "K2-12",
+          "opis": "Predavaonica",
+          "kapacitet": "99",
+          "covidkap": "55",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "84.9",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "10",
+          "ime": "K2-1",
+          "opis": "Predavaonica",
+          "kapacitet": "192",
+          "covidkap": "94",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "176.2",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "11",
+          "ime": "K1-16",
+          "opis": "Predavaonica",
+          "kapacitet": "78",
+          "covidkap": "36",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "83.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "12",
+          "ime": "K1-15",
+          "opis": "Predavaonica",
+          "kapacitet": "99",
+          "covidkap": "50",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "82.9",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "13",
+          "ime": "T3-27",
+          "opis": "Računalna učionica",
+          "kapacitet": "24",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "73.8",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "129",
+              "ime": "MILOLOŽA MARIO"
+            }
+          }
+        },
+        {
+          "-id": "14",
+          "ime": "T3-28",
+          "opis": "Laboratorij za elektroniku i mikroelektroniku",
+          "kapacitet": "30",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "54.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "62",
+              "ime": "RUKAVINA DAMIR"
+            }
+          }
+        },
+        {
+          "-id": "15",
+          "ime": "T3-18",
+          "opis": "Laboratorij za telekomunikacije - računalna učionica",
+          "kapacitet": "24",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "55",
+          "napomena": "Računalna učionica",
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "62",
+              "ime": "RUKAVINA DAMIR"
+            }
+          }
+        },
+        {
+          "-id": "16",
+          "ime": "T1-21",
+          "opis": "FINA računalna učionica",
+          "kapacitet": "29",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "56",
+          "napomena": "Računalna učionica",
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "129",
+              "ime": "MILOLOŽA MARIO"
+            }
+          }
+        },
+        {
+          "-id": "17",
+          "ime": "T1-23",
+          "opis": "Laboratorij za električna mjerenja",
+          "kapacitet": "26",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "55",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": [
+              {
+                "-id": "311",
+                "ime": "BIONDIĆ IVAN"
+              },
+              {
+                "-id": "115",
+                "ime": "SRNOVIĆ MARIO"
+              }
+            ]
+          }
+        },
+        {
+          "-id": "18",
+          "ime": "T1-25",
+          "opis": "Laboratorij za osnove elektrotehnike",
+          "kapacitet": "21",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "57",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": [
+              {
+                "-id": "244",
+                "ime": "VEIĆ NIKOLA"
+              },
+              {
+                "-id": "115",
+                "ime": "SRNOVIĆ MARIO"
+              }
+            ]
+          }
+        },
+        {
+          "-id": "19",
+          "ime": "T1-27",
+          "opis": "Laboratorij za elektroenergetske mreže",
+          "kapacitet": "20",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "55",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "68",
+              "ime": "ŠLJIVAC DAMIR"
+            }
+          }
+        },
+        {
+          "-id": "20",
+          "ime": "T0-31",
+          "opis": "Predavaonica",
+          "kapacitet": "44",
+          "covidkap": "22",
+          "zgrada": "1",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "51.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "21",
+          "ime": "T0-33",
+          "opis": "Predavaonica",
+          "kapacitet": "42",
+          "covidkap": "21",
+          "zgrada": "1",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "52",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "23",
+          "ime": "T0-22",
+          "opis": "Laboratorij za električne strojeve i pogone",
+          "kapacitet": "23",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "53.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": [
+              {
+                "-id": "103",
+                "ime": "KURTOVIĆ GORAN"
+              },
+              {
+                "-id": "19",
+                "ime": "FILIĆ MIRKO"
+              }
+            ]
+          }
+        },
+        {
+          "-id": "24",
+          "ime": "K0-7",
+          "opis": "Laboratorij za automatizaciju",
+          "kapacitet": "16",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "48.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "25",
+          "ime": "K1-2",
+          "opis": "Zavod za računalno inženjerstvo i automatiku",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "40",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "26",
+          "ime": "K3-1",
+          "opis": "Računalni laboratorij",
+          "kapacitet": "53",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "157",
+          "napomena": "Računalna učionica",
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "27",
+          "ime": "K3-12",
+          "opis": "Laboratorij za programsko inženjerstvo, CISCO, šah i računalne igre - računalni laboratorij",
+          "kapacitet": "28",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "76.8",
+          "napomena": "Računalna učionica",
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "28",
+          "ime": "K3-13",
+          "opis": "Laboratorij za računalne sustave stvarnog vremena i raspodjeljene računalne sustave - računalni laboratorij ",
+          "kapacitet": "28",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "77.7",
+          "napomena": "Računalna učionica",
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "47",
+          "ime": "K0-1",
+          "opis": "Zavod za računalno inženjerstvo i automatiku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "21.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "29",
+          "ime": "K1-1",
+          "opis": "Laboratorij za razvoj mobilnih aplikacija",
+          "kapacitet": "26",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "40.57",
+          "napomena": "Računalna učionica",
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "30",
+          "ime": "T0-23",
+          "opis": "Zavod za elektrostrojarstvo",
+          "kapacitet": "16",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "11.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "43",
+          "ime": "K0-9 K0-10",
+          "opis": "Laboratorij za fiziku i spremište",
+          "kapacitet": "33",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "60.35",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "119",
+              "ime": "KVAČEK-BLAŽEVIĆ ANITA"
+            }
+          }
+        },
+        {
+          "-id": "44",
+          "ime": "K1-9",
+          "opis": "Laboratorij za digitalnu elektroniku i arhitekturu računala",
+          "kapacitet": "27",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "51.36",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "31",
+          "ime": "T0-24",
+          "opis": "Laboratorij za energetsku elektroniku",
+          "kapacitet": "24",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "53.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": [
+              {
+                "-id": "325",
+                "ime": "BRANDIS ANDREJ"
+              },
+              {
+                "-id": "103",
+                "ime": "KURTOVIĆ GORAN"
+              }
+            ]
+          }
+        },
+        {
+          "-id": "32",
+          "ime": "T2-28",
+          "opis": "Zavod za elektroenergetiku",
+          "kapacitet": "4",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "27.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "33",
+          "ime": "T2-29",
+          "opis": "Zavod za elektroenergetiku",
+          "kapacitet": "4",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "26.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "34",
+          "ime": "T3-19",
+          "opis": "Razvojni laboratorij",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "0",
+          "kvadratura": "3.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "35",
+          "ime": "T3-21 3-22",
+          "opis": "Laboratorij za obnovljive izvore energije",
+          "kapacitet": "17",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "54.2",
+          "napomena": "Sadrži i računalnu učionicu",
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "68",
+              "ime": "ŠLJIVAC DAMIR"
+            }
+          }
+        },
+        {
+          "-id": "36",
+          "ime": "K+1",
+          "opis": "Laboratorij za obradu slike i videa u automotiv aplikacijama",
+          "kapacitet": "16",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "44",
+          "napomena": "Računalna učionica",
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "351",
+              "ime": "VAJAK DENIS"
+            }
+          }
+        },
+        {
+          "-id": "37",
+          "ime": "D-GV",
+          "opis": "Dvorana Gradski Vrt",
+          "kapacitet": "100",
+          "covidkap": "0",
+          "zgrada": "4",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "38",
+          "ime": "D-TŠ",
+          "opis": "Dvorana Tehnička Škola",
+          "kapacitet": "100",
+          "covidkap": "0",
+          "zgrada": "4",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "39",
+          "ime": "T3-16",
+          "opis": "Laboratorij za radiokomunikacije",
+          "kapacitet": "11",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "22.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "40",
+          "ime": "Izvan zgrade",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "4",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "41",
+          "ime": "D-GB",
+          "opis": "Gradski bazeni",
+          "kapacitet": "100",
+          "covidkap": "0",
+          "zgrada": "4",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "45",
+          "ime": "K0-4",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.22",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "46",
+          "ime": "K2-9",
+          "opis": "Zavod za računalno inženjerstvo i automatiku",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "29.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "71",
+          "ime": "B-1",
+          "opis": "Ured za računalnu podršku - Skladište",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "129",
+              "ime": "MILOLOŽA MARIO"
+            }
+          }
+        },
+        {
+          "-id": "48",
+          "ime": "K0-2",
+          "opis": "Zavode za računalno inženjerstvo i automatiku",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "17.14",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "49",
+          "ime": "K0-3",
+          "opis": "Zavode za računalno inženjerstvo i automatiku",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "14.92",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "50",
+          "ime": "K0-5",
+          "opis": "Zavod za računalno inženjerstvo i automatiku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "51",
+          "ime": "K0-11",
+          "opis": "Zavod za zajedničke predmete/ Zavod za programsko inženjerstvo",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "10.59",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "52",
+          "ime": "K1-4",
+          "opis": "Zavod za zajedničke predmete",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "53",
+          "ime": "K1-5",
+          "opis": "Zavod za programsko inženjerstvo/ Zavod za zajedničke predmete",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "10.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "54",
+          "ime": "K1-6",
+          "opis": "Zavod za računalno inženjerstvo i automatiku",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "11.8",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "55",
+          "ime": "K1-7",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "14.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "56",
+          "ime": "K1-10",
+          "opis": "Ured za računalnu podršku-Računalni čvor",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "20",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "57",
+          "ime": "K1-12",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "20.39",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "58",
+          "ime": "K2-4",
+          "opis": "Zavod za računalno inženjerstvo i automatiku",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "22.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "59",
+          "ime": "K2-5",
+          "opis": "Znanstveno istraživački i prototipni laboratorij",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "0",
+          "kvadratura": "17",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "60",
+          "ime": "K2-6",
+          "opis": "Zavod za računalno inženjerstvo i automatiku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "23.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "61",
+          "ime": "K2-7",
+          "opis": "Zavod za računalno inženjerstvo i automatiku",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "18.9",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "62",
+          "ime": "K2-8",
+          "opis": "Zavod za računalno inženjerstvo i automatiku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "21",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "63",
+          "ime": "K3-4",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "25.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "64",
+          "ime": "K3-5",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "22.2",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "65",
+          "ime": "K3-6",
+          "opis": "Zavod za računalno inženjerstvo i automatiku/Računalni čvor",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "17.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "66",
+          "ime": "K3-7",
+          "opis": "Zavod za programsko inženjerstvo/ Laboratorij za računalnu grafiku i matematičku obradu slike",
+          "kapacitet": "5",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "0",
+          "kvadratura": "24",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "67",
+          "ime": "K3-8",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "20.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "68",
+          "ime": "K3-9",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "24.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "69",
+          "ime": "K3-10",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "23.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "70",
+          "ime": "K3-11",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "19.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "72",
+          "ime": "B-2",
+          "opis": "Ured za računalnu podršku",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "8",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "73",
+          "ime": "B-3",
+          "opis": "Ured za računalnu podršku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "7.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "74",
+          "ime": "B-4",
+          "opis": "Studentski radio UNIOS - Režija",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "17.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "75",
+          "ime": "B-5",
+          "opis": "Ured za računalnu podršku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "13.8",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "76",
+          "ime": "B-6",
+          "opis": "Studentski radio UNIOS - Studio",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "8.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "129",
+              "ime": "MILOLOŽA MARIO"
+            }
+          }
+        },
+        {
+          "-id": "77",
+          "ime": "B-7",
+          "opis": "Ured za računalnu podršku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "10",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "78",
+          "ime": "T0-25",
+          "opis": "Zavod za elektrostrojarstvo",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "17.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "79",
+          "ime": "T0-32",
+          "opis": "Knjižnica",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "53.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "80",
+          "ime": "T0-16",
+          "opis": "Arhiva za računovodstvo i studentsku službu",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "12.8",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "222",
+              "ime": "HANZER MIRTA"
+            }
+          }
+        },
+        {
+          "-id": "81",
+          "ime": "T0-12 0-13",
+          "opis": "Ured za studente/Ured za unapređenje i osiguranje kvalitete visokog obrazovanja",
+          "kapacitet": "5",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "46.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "82",
+          "ime": "T0-14",
+          "opis": "Ured za računovodstveno-financijske poslove",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "22",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "83",
+          "ime": "T0-15",
+          "opis": "Ured za računovodstveno-financijske poslove",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "15",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "84",
+          "ime": "T0-53",
+          "opis": "WC Ž",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "13.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "85",
+          "ime": "T0-52",
+          "opis": "WC M",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "24",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "86",
+          "ime": "T1-26",
+          "opis": "Zavod za elektrostrojarstvo",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "87",
+          "ime": "T1-24",
+          "opis": "Zavod za elektrostrojarstvo/ Ured za računalnu podršku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "88",
+          "ime": "T1-22",
+          "opis": "Zavod za elektrostrojarstvo",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "89",
+          "ime": "T1-20",
+          "opis": "Zavod za elektrostrojarstvo",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "90",
+          "ime": "T1-38",
+          "opis": "Ured za pravne, kadrovske, opće i administrativne poslove",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.8",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "459",
+              "ime": "PERIĆ KUZMANOVIĆ IVA"
+            }
+          }
+        },
+        {
+          "-id": "91",
+          "ime": "T1-30",
+          "opis": "Dekan/Ured dekana",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "73.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "92",
+          "ime": "T1-31",
+          "opis": "Ured dekana",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "20.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "93",
+          "ime": "T1-39",
+          "opis": "Ured tajnika Fakulteta",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "17",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "84",
+              "ime": "ŠIRIĆ MARIJANA"
+            }
+          }
+        },
+        {
+          "-id": "94",
+          "ime": "T1-33",
+          "opis": "Vijećnica",
+          "kapacitet": "70",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "5",
+          "zanastavu": "0",
+          "kvadratura": "134",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "95",
+          "ime": "T1-34",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "0",
+          "zanastavu": "0",
+          "kvadratura": "12.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "96",
+          "ime": "T1-35",
+          "opis": "Ured prodekana",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "13.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "97",
+          "ime": "T1-36",
+          "opis": "Ured prodekana",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "19.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "98",
+          "ime": "T1-37",
+          "opis": "Ured prodekana",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "21.8",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "99",
+          "ime": "T1-10 1-11",
+          "opis": "Zavod za zajedničke predmete",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "32.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "101",
+          "ime": "T1-12",
+          "opis": "Ured za karijerno savjetovanje i razvoj karijera",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "14.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "102",
+          "ime": "T1-13",
+          "opis": "Ured za centralnu arhivu i urudžbeni zapisnik",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "103",
+          "ime": "T1-14",
+          "opis": "Zavod za zajedničke predmete/ Ured prodekana",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "14.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "104",
+          "ime": "T1-15",
+          "opis": "Zavod za elektrostrojarstvo/ Zavod za zajedničke predmete",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "14.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "105",
+          "ime": "T1-16 1-17",
+          "opis": "Zavod za zajedničke predmete/ Zavod za elektrostrojarstvo/ Ured za računalnu podršku",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "30",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "106",
+          "ime": "T1-18",
+          "opis": "Ured za tehničke poslove/ Ured za poslovne odnose i nabavu",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "107",
+          "ime": "T1-50",
+          "opis": "Garderoba",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "10",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "108",
+          "ime": "T1-51",
+          "opis": "WC M",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "27",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "109",
+          "ime": "T1-52",
+          "opis": "WC Ž",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "110",
+          "ime": "T1-54",
+          "opis": "WC M",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "8.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "187",
+          "ime": "BIOS-1",
+          "opis": "Laboratorij za električne strojeve i hibridne pogonske sustave",
+          "kapacitet": "4",
+          "covidkap": "0",
+          "zgrada": "4",
+          "tip": "2",
+          "zanastavu": "0",
+          "kvadratura": "120",
+          "napomena": "Prostor u BIOS-u",
+          "zaduzenja": {
+            "djelatnik": [
+              {
+                "-id": "103",
+                "ime": "KURTOVIĆ GORAN"
+              },
+              {
+                "-id": "244",
+                "ime": "VEIĆ NIKOLA"
+              }
+            ]
+          }
+        },
+        {
+          "-id": "111",
+          "ime": "T2-40",
+          "opis": "Služba tehničkog održavanja/Domari",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "7.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "112",
+          "ime": "T2-27",
+          "opis": "Zavod za elektroenergetiku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "113",
+          "ime": "T2-20",
+          "opis": "Zavod za elektroenergetiku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "114",
+          "ime": "T2-10",
+          "opis": "Zavod za zajedničke predmete",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "15.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "115",
+          "ime": "T2-11",
+          "opis": "Zavod za zajedničke predmete",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "116",
+          "ime": "T2-12",
+          "opis": "Zavod za zajedničke predmete",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "15.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "117",
+          "ime": "T2-13",
+          "opis": "Zavod za zajedničke predmete",
+          "kapacitet": "4",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "17.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "118",
+          "ime": "T2-25",
+          "opis": "Zavod za elektroenergetiku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "119",
+          "ime": "T2-50",
+          "opis": "WC Ž",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "15.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "120",
+          "ime": "T2-51",
+          "opis": "WC M",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "25.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "121",
+          "ime": "T3-17",
+          "opis": "Zavod za komunikacije",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "17.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "122",
+          "ime": "T3-15",
+          "opis": "Zavod za komunikacije",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "23.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "123",
+          "ime": "T3-14",
+          "opis": "Zavod za komunikacije",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "24.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "124",
+          "ime": "T3-13",
+          "opis": "Zavod za komunikacije",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "15.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "125",
+          "ime": "T3-12",
+          "opis": "Zavod za komunikacije",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "15.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "126",
+          "ime": "T3-11",
+          "opis": "Zavod za komunikacije",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "15.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "127",
+          "ime": "T3-10",
+          "opis": "Zavod za komunikacije",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "15.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "128",
+          "ime": "T3-23",
+          "opis": "Laboratorij za VF mjerenja",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "2",
+          "zanastavu": "0",
+          "kvadratura": "17.6",
+          "napomena": "Akreditirani laboratorij",
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "129",
+          "ime": "T3-24",
+          "opis": "Zavod za komunikacije",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "27.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "130",
+          "ime": "T3-25",
+          "opis": "Lan centar",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "27.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "129",
+              "ime": "MILOLOŽA MARIO"
+            }
+          }
+        },
+        {
+          "-id": "131",
+          "ime": "T3-26",
+          "opis": "Ured za računalnu podršku",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "17.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "132",
+          "ime": "T3-40",
+          "opis": "Spremačice",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "7.3",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "133",
+          "ime": "T3-50",
+          "opis": "WC Ž",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "10",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "134",
+          "ime": "T3-51",
+          "opis": "WC M",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "31.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "135",
+          "ime": "T3-20",
+          "opis": "Zavod za komunikacije",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "17.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "136",
+          "ime": "T2-32",
+          "opis": "Laboratorij za elektromagnetsku kompatibilnost",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "11.3",
+          "napomena": "Akreditirani laboratorij",
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "137",
+          "ime": "K1-11",
+          "opis": "Arhiva",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "41.54",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "56",
+              "ime": "PERIĆ-ERNJEŠ MARINA"
+            }
+          }
+        },
+        {
+          "-id": "138",
+          "ime": "K1-8",
+          "opis": "Wc za djelatnike",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "14",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "139",
+          "ime": "K1-13",
+          "opis": "Čitaonica",
+          "kapacitet": "12",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "28.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "140",
+          "ime": "K1-3",
+          "opis": "Spremište",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "4.95",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "141",
+          "ime": "K2-10",
+          "opis": "Spremačice",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "14",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "142",
+          "ime": "T0-11",
+          "opis": "Studentski zbor",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "7.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "143",
+          "ime": "T0-21",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "8.4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "144",
+          "ime": "T0-34",
+          "opis": "Čitaonica",
+          "kapacitet": "52",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "73.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "145",
+          "ime": "T0-17",
+          "opis": "Porta",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "6.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "146",
+          "ime": "T0-26 0-27",
+          "opis": "Restoran i kuhinja",
+          "kapacitet": "60",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "149.2",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "147",
+          "ime": "T0-28",
+          "opis": "Restoran - terasa",
+          "kapacitet": "40",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "45.62",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "148",
+          "ime": "T2-33",
+          "opis": "Prostor za spremačice",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "9.2",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "149",
+          "ime": "T1-40",
+          "opis": "Spremište",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "10",
+          "napomena": "7.3",
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "151",
+          "ime": "K2-3",
+          "opis": "Zavod za programsko inženjerstvo",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "30",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "152",
+          "ime": "T2-22",
+          "opis": "Zavod za elektroenergetiku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "16.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "153",
+          "ime": "K0-0",
+          "opis": "Porta",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "4",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "154",
+          "ime": "T0-x",
+          "opis": "Predvorja i hodnici",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "292.9",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "155",
+          "ime": "T0-y",
+          "opis": "Stubišta i podesti",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "48.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "156",
+          "ime": "T1-x",
+          "opis": "Predvorja i hodnici",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "222",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "157",
+          "ime": "T1-y",
+          "opis": "Stubišta i podesti",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "56.9",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "158",
+          "ime": "T2-x",
+          "opis": "Predvorja i hodnici",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "311.2",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "159",
+          "ime": "T2-y",
+          "opis": "Stubišta i podesti",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "56.9",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "160",
+          "ime": "T3-y",
+          "opis": "Stubišta i podesti",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "35.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "161",
+          "ime": "T3-x",
+          "opis": "Predvorja i hodnici",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "246.8",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "162",
+          "ime": "K0-x",
+          "opis": "Predvorja i hodnici",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "80.2",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "163",
+          "ime": "K1-x",
+          "opis": "Predvorja i hodnici",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "139.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "164",
+          "ime": "K2-x",
+          "opis": "Predvorja i hodnici",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "127.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "165",
+          "ime": "K3-x",
+          "opis": "Predvorja i hodnici",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "112.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "166",
+          "ime": "K0-y",
+          "opis": "Stubišta i podesti",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "35.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "167",
+          "ime": "K1-y",
+          "opis": "Stubišta i podesti",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "36",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "168",
+          "ime": "K2-y",
+          "opis": "Stubišta i podesti",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "39.9",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "169",
+          "ime": "K3-y",
+          "opis": "Stubišta i podesti",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "16.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "170",
+          "ime": "RT-RK-1",
+          "opis": "Ustupljeno RT-RK",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "198",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "171",
+          "ime": "B-x",
+          "opis": "Predvorja i hodnici",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "41.1",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "129",
+              "ime": "MILOLOŽA MARIO"
+            }
+          }
+        },
+        {
+          "-id": "172",
+          "ime": "KP-1",
+          "opis": "Kampus podrum",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "72.9",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "192",
+          "ime": "T0-51",
+          "opis": "Spremište",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "174",
+          "ime": "KP-2",
+          "opis": "Kampus - Toplinska stanica",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "20.84",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "191",
+          "ime": "T0-50",
+          "opis": "Spremište",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "177",
+          "ime": "K0-6",
+          "opis": "Radionica",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "8.16",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "178",
+          "ime": "K0-12",
+          "opis": "WC M/Ž",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "23.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "179",
+          "ime": "K3-2 K3-3",
+          "opis": "WC Ž/M",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "13.9",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "180",
+          "ime": "K2-2",
+          "opis": "Wc za djelatnike",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "14.2",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "181",
+          "ime": "K1-17",
+          "opis": "WC Ž/M",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "26",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "182",
+          "ime": "K2-13",
+          "opis": "WC Ž/M",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "29",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "183",
+          "ime": "K3-14",
+          "opis": "WC Ž/M",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "24",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "184",
+          "ime": "RT-RK-2",
+          "opis": "RT-RK i FERIT-zajednički prostori",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "50",
+          "napomena": "Hodnici u dijelu RT-RK ali koriste se zajednički",
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "185",
+          "ime": "RT-RK-3",
+          "opis": "Prostori FERIT-a",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "11",
+          "napomena": "Prostori u dijelu RT-RK ali koristi ih FERIT (predprostor, wc, tuš)",
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "186",
+          "ime": "K+2",
+          "opis": "Laboratorij za izradu i testiranje automobilske programske podrške",
+          "kapacitet": "16",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "48",
+          "napomena": "Računalna učionica",
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "351",
+              "ime": "VAJAK DENIS"
+            }
+          }
+        },
+        {
+          "-id": "190",
+          "ime": "K1-14",
+          "opis": "HKIE - Područni ured",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "13.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "188",
+          "ime": "T0-10",
+          "opis": "Ured za međunarodnu suradnju, znanstvene i stručne projekte",
+          "kapacitet": "3",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "25",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "189",
+          "ime": "K+3",
+          "opis": "Laboratorij za izradu diplomskih i završnih radova",
+          "kapacitet": "8",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "28",
+          "napomena": "Računalna učionica",
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "351",
+              "ime": "VAJAK DENIS"
+            }
+          }
+        },
+        {
+          "-id": "193",
+          "ime": "T-ispred zgrade",
+          "opis": "Dvorišni prostor",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "194",
+          "ime": "K-ispred zgrade",
+          "opis": "Dvorišni prostor",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "195",
+          "ime": "K0-13",
+          "opis": "Spremište",
+          "kapacitet": "1",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "5.6",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "djelatnik": {
+              "-id": "116",
+              "ime": "GRGIĆ ANTUN"
+            }
+          }
+        },
+        {
+          "-id": "197",
+          "ime": "T2-24",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "4",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "27.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "198",
+          "ime": "K0-8",
+          "opis": "Zavode za računalno inženjerstvo i automatiku",
+          "kapacitet": "2",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "11.5",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "199",
+          "ime": "T1-29",
+          "opis": "Kuhinja",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "4",
+          "zanastavu": "0",
+          "kvadratura": "4.7",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "200",
+          "ime": "Virtualna učionica 1",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "201",
+          "ime": "Virtualna učionica 2",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "1",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "202",
+          "ime": "Virtualna učionica 3",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "203",
+          "ime": "Virtualna učionica 4",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "204",
+          "ime": "FAZOS Aula Alta",
+          "opis": "Predavaonica Aula Alta 4. kat ustupljena od FAZOS",
+          "kapacitet": "153",
+          "covidkap": "153",
+          "zgrada": "5",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "205",
+          "ime": "Virtualna učionica 5",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "206",
+          "ime": "Virtualna učionica 6",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "207",
+          "ime": "Virtualna učionica 7",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "208",
+          "ime": "Virtualna učionica 8",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "209",
+          "ime": "Virtualna učionica 9",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "210",
+          "ime": "Virtualna učionica 10",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "211",
+          "ime": "Virtualna učionica 11",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "212",
+          "ime": "Virtualna učionica 12",
+          "opis": {
+            "-self-closing": "true"
+          },
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "2",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "213",
+          "ime": "Tera Tehnopolis",
+          "opis": "Ured",
+          "kapacitet": "8",
+          "covidkap": "0",
+          "zgrada": "3",
+          "tip": "3",
+          "zanastavu": "0",
+          "kvadratura": "50",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "214",
+          "ime": "VK-P1",
+          "opis": "Predavaonica u Vinkovcima",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "6",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "215",
+          "ime": "VK-LV-1",
+          "opis": "Računalna učionica",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "6",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "216",
+          "ime": "VK-LV-2",
+          "opis": "Laboratorij (hardverski)",
+          "kapacitet": "0",
+          "covidkap": "0",
+          "zgrada": "6",
+          "tip": "2",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        },
+        {
+          "-id": "217",
+          "ime": "FAZOS Aula Media",
+          "opis": "Predavaonica Aula Media od 12h-20h",
+          "kapacitet": "153",
+          "covidkap": "153",
+          "zgrada": "5",
+          "tip": "1",
+          "zanastavu": "1",
+          "kvadratura": "0",
+          "napomena": {
+            "-self-closing": "true"
+          },
+          "zaduzenja": {
+            "-self-closing": "true"
+          }
+        }
+      ]
+    },
+    "#omit-xml-declaration": "yes"
+  }

@@ -1,4 +1,6 @@
 import {
+  HttpException,
+  HttpStatus,
   Injectable,
   NotFoundException,
   UnauthorizedException,
@@ -9,6 +11,7 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import { SignUpDto } from './dto/signUp.dto';
 import * as bcrypt from 'bcrypt';
+import { LoginDto } from './dto/login.dto';
 
 @Injectable()
 export class AuthService {
@@ -18,7 +21,10 @@ export class AuthService {
     private jwtService: JwtService,
   ) {}
 
-  async validateUser(email: string, password: string): Promise<SignUpDto> {
+  async validateUser(
+    email: string,
+    password: string,
+  ): Promise<{ id: string; email: string; username: string }> {
     try {
       const user = await this.userRepository.findOneOrFail({
         where: {
@@ -29,8 +35,8 @@ export class AuthService {
       if (user) {
         const isMatch = await bcrypt.compare(password, user.password);
         if (isMatch) {
-          const { password, ...rest } = user;
-          return rest;
+          const { id, email, username } = user;
+          return { id, email, username };
         }
       }
     } catch (e) {
@@ -40,16 +46,20 @@ export class AuthService {
     return null;
   }
 
-  async login(userDto: UserEntity) {
+  async login(userDto: LoginDto) {
     const user = await this.validateUser(userDto.email, userDto.password);
 
     if (user) {
       const payload = { email: user.email, sub: user.id };
       const access_token = this.jwtService.sign(payload);
+      const refresh_token = 'REFRESH';
 
       return {
-        ...user,
+        id: user.id,
+        username: user.username,
+        email: user.email,
         access_token,
+        refresh_token,
       };
     }
     throw new UnauthorizedException();
@@ -60,20 +70,37 @@ export class AuthService {
   }
 
   async signUp(SignUpDto: SignUpDto) {
-    //TODO: Provjera jel postoji user u bazi
-    const hash = await bcrypt.hash(SignUpDto.password, 10);
-    const user = await this.userRepository.save({
-      id: SignUpDto.id,
-      email: SignUpDto.email,
-      password: hash,
+    const existingUser = await this.userRepository.findAndCount({
+      where: {
+        email: SignUpDto.email,
+      },
     });
-    const payload = { email: user.email, sub: user.id };
-    const access_token = this.jwtService.sign(payload);
-    return {
-      id: user.id,
-      email: user.email,
-      access_token,
-    };
+    if (existingUser[1]) {
+      throw new HttpException(
+        {
+          status: HttpStatus.CONFLICT,
+          error: 'There is already user with that email.',
+        },
+        HttpStatus.CONFLICT,
+      );
+    } else {
+      const hash = await bcrypt.hash(SignUpDto.password, 10);
+      const user = await this.userRepository.save({
+        username: SignUpDto.username,
+        email: SignUpDto.email,
+        password: hash,
+      });
+      const payload = { email: user.email, sub: user.id };
+      const access_token = this.jwtService.sign(payload);
+      const refresh_token = 'REFRESH';
+      return {
+        id: user.id,
+        username: user.username,
+        email: user.email,
+        access_token,
+        refresh_token,
+      };
+    }
   }
 
   async refreshTokens(user: any) {

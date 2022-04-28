@@ -40,7 +40,13 @@ export class AuthService {
         }
       }
     } catch (e) {
-      throw new NotFoundException();
+      throw new HttpException(
+        {
+          status: HttpStatus.CONFLICT,
+          error: 'Please check your e-mail and password!',
+        },
+        HttpStatus.CONFLICT,
+      );
     }
 
     return null;
@@ -62,7 +68,13 @@ export class AuthService {
         refresh_token,
       };
     }
-    throw new UnauthorizedException();
+    throw new HttpException(
+      {
+        status: HttpStatus.CONFLICT,
+        error: 'Please check your e-mail and password!',
+      },
+      HttpStatus.CONFLICT,
+    );
   }
 
   async logout(user: any) {

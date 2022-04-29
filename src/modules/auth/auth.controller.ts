@@ -7,8 +7,9 @@ import {
   Body,
 } from '@nestjs/common';
 import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
-import { UserEntity } from './auth.entity';
 import { AuthService } from './auth.service';
+import { LoginDto } from './dto/login.dto';
+import { LoginResponseDto } from './dto/loginResponse.dto';
 import { SignUpDto } from './dto/signUp.dto';
 import { JwtAuthGuard } from './jwt-auth.guard';
 
@@ -19,19 +20,19 @@ export class AuthController {
 
   @ApiOkResponse({
     description: 'Successful Signup.',
-    //TODO: add type: SignUpResponseDto,
+    type: LoginResponseDto,
   })
   @Post('signup')
-  signup(@Body() user: SignUpDto): any {
+  signup(@Body() user: SignUpDto): Promise<LoginResponseDto> {
     return this.authService.signUp(user);
   }
 
   @ApiOkResponse({
     description: 'Successful Login.',
-    //TODO: add type: SignUpResponseDto,
+    type: LoginResponseDto,
   })
   @Post('login')
-  login(@Body() user: UserEntity): any {
+  login(@Body() user: LoginDto): Promise<LoginResponseDto> {
     return this.authService.login(user);
   }
 

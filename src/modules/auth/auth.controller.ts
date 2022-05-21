@@ -10,6 +10,8 @@ import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
 import { AuthService } from './auth.service';
 import { LoginDto } from './dto/login.dto';
 import { LoginResponseDto } from './dto/loginResponse.dto';
+import { LogoutDto } from './dto/logout.dto';
+import { RefreshDto } from './dto/refresh.dto';
 import { SignUpDto } from './dto/signUp.dto';
 import { JwtAuthGuard } from './jwt-auth.guard';
 
@@ -18,31 +20,40 @@ import { JwtAuthGuard } from './jwt-auth.guard';
 export class AuthController {
   constructor(private readonly authService: AuthService) {}
 
+  @Post('signup')
   @ApiOkResponse({
     description: 'Successful Signup.',
     type: LoginResponseDto,
   })
-  @Post('signup')
   signup(@Body() user: SignUpDto): Promise<LoginResponseDto> {
     return this.authService.signUp(user);
   }
 
+  @Post('login')
   @ApiOkResponse({
     description: 'Successful Login.',
     type: LoginResponseDto,
   })
-  @Post('login')
   login(@Body() user: LoginDto): Promise<LoginResponseDto> {
     return this.authService.login(user);
   }
 
+  @UseGuards(JwtAuthGuard)
+  @Post('logout')
   @ApiOkResponse({
     description: 'Successful Logout.',
-    //TODO: add type: SignUpResponseDto,
   })
-  @Post('logout')
-  logout(@Request() req): any {
-    return this.authService.logout(req.user);
+  logout(@Body() user: LogoutDto): Promise<void> {
+    return this.authService.logout(user);
+  }
+
+  @Post('refresh')
+  @ApiOkResponse({
+    description: 'Successful Resfreshing.',
+    type: LoginResponseDto,
+  })
+  refresh(@Body() user: RefreshDto): Promise<LoginResponseDto> {
+    return this.authService.refreshTokens(user);
   }
 
   // if is loged in example

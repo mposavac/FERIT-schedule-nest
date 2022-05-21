@@ -14,4 +14,7 @@ export class UserEntity extends BaseEntity {
 
   @Column()
   password: string;
+
+  @Column()
+  refreshToken: string | null;
 }

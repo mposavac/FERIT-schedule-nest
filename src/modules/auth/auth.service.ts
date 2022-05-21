@@ -1,9 +1,8 @@
 import {
+  ForbiddenException,
   HttpException,
   HttpStatus,
   Injectable,
-  NotFoundException,
-  UnauthorizedException,
 } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import { UserEntity } from './auth.entity';
@@ -12,6 +11,8 @@ import { Repository } from 'typeorm';
 import { SignUpDto } from './dto/signUp.dto';
 import * as bcrypt from 'bcrypt';
 import { LoginDto } from './dto/login.dto';
+import { LogoutDto } from './dto/logout.dto';
+import { RefreshDto } from './dto/refresh.dto';
 
 @Injectable()
 export class AuthService {
@@ -57,8 +58,8 @@ export class AuthService {
 
     if (user) {
       const payload = { email: user.email, sub: user.id };
-      const access_token = this.jwtService.sign(payload);
-      const refresh_token = 'REFRESH';
+      const [access_token, refresh_token] = await this.getTokens(payload);
+      await this.updateSavedToken(user.id, refresh_token);
 
       return {
         id: user.id,
@@ -75,10 +76,6 @@ export class AuthService {
       },
       HttpStatus.CONFLICT,
     );
-  }
-
-  async logout(user: any) {
-    return null;
   }
 
   async signUp(SignUpDto: SignUpDto) {
@@ -101,10 +98,12 @@ export class AuthService {
         username: SignUpDto.username,
         email: SignUpDto.email,
         password: hash,
+        refreshToken: '',
       });
       const payload = { email: user.email, sub: user.id };
-      const access_token = this.jwtService.sign(payload);
-      const refresh_token = 'REFRESH';
+      const [access_token, refresh_token] = await this.getTokens(payload);
+      await this.updateSavedToken(user.id, refresh_token);
+
       return {
         id: user.id,
         username: user.username,
@@ -115,7 +114,62 @@ export class AuthService {
     }
   }
 
-  async refreshTokens(user: any) {
+  async logout(userDto: LogoutDto) {
+    await this.userRepository.update(userDto.id, {
+      refreshToken: '',
+    });
+  }
+
+  async refreshTokens(userDto: RefreshDto) {
+    try {
+      const user = await this.userRepository.findOneOrFail({
+        where: { id: userDto.id },
+      });
+
+      if (user) {
+        const isMatch = await bcrypt.compare(
+          userDto.refresh_token,
+          user.refreshToken,
+        );
+        if (isMatch) {
+          const payload = { email: user.email, sub: user.id };
+          const access_token = this.jwtService.sign(payload);
+
+          const { id, email, username } = user;
+          return {
+            id,
+            email,
+            username,
+            access_token,
+            refresh_token: userDto.refresh_token,
+          };
+        } else throw new ForbiddenException('Access Denied');
+      }
+    } catch (e) {
+      throw new HttpException(
+        {
+          status: HttpStatus.CONFLICT,
+          error: 'User not found!',
+        },
+        HttpStatus.CONFLICT,
+      );
+    }
     return null;
+  }
+
+  async getTokens(payload: any) {
+    const access_token = this.jwtService.sign(payload);
+    const refresh_token = this.jwtService.sign(payload, {
+      secret: 'REFRESH',
+      expiresIn: 60 * 60 * 24 * 7 + 's',
+    });
+    return [access_token, refresh_token];
+  }
+
+  async updateSavedToken(id: string, refresh_token: string) {
+    const refreshToken = await bcrypt.hash(refresh_token, 10);
+    await this.userRepository.update(id, {
+      refreshToken,
+    });
   }
 }

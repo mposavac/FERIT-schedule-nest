@@ -1,5 +1,10 @@
-import { Controller, Get, Param } from '@nestjs/common';
-import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
+import { Controller, Get, Param, UseGuards } from '@nestjs/common';
+import { ApiOkResponse, ApiParam, ApiTags } from '@nestjs/swagger';
+import { JwtAuthGuard } from '../auth/jwt-auth.guard';
+import {
+  BuildingsResponseDto,
+  RoomsResponseDto,
+} from './dto/roomsResponse.dto';
 import { RoomsService } from './roooms.service';
 
 @ApiTags('Rooms')
@@ -7,33 +12,30 @@ import { RoomsService } from './roooms.service';
 export class RoomsController {
   constructor(private readonly roomsService: RoomsService) {}
 
-  @Get('availability/:id')
+  @UseGuards(JwtAuthGuard)
+  @Get('availability/:date/:id')
   @ApiOkResponse({
     description: 'OK.',
     isArray: true,
-    //TODO: add type: GetRoomDto
+    type: RoomsResponseDto,
   })
-  getRoom(@Param('id') room_id) {
-    return this.roomsService.getRoomAvailability(room_id);
+  @ApiParam({ name: 'date', required: true, type: 'date' })
+  @ApiParam({ name: 'id', required: true, type: 'string' })
+  getRoom(
+    @Param('date') date: Date,
+    @Param('id') room_id: string,
+  ): Promise<RoomsResponseDto> {
+    return this.roomsService.getRoomAvailability(date, room_id);
   }
 
+  @UseGuards(JwtAuthGuard)
   @Get('buildings')
   @ApiOkResponse({
     description: 'OK.',
     isArray: true,
-    //TODO: add type: GetRoomDto
+    type: BuildingsResponseDto,
   })
-  getBuildings() {
+  getBuildings(): Promise<BuildingsResponseDto[]> {
     return this.roomsService.getBuildings();
-  }
-
-  @Get('list/:id')
-  @ApiOkResponse({
-    description: 'OK.',
-    isArray: true,
-    //TODO: add type: GetRoomDto
-  })
-  getRooms(@Param('id') building_id) {
-    return this.roomsService.getRoomsList(building_id);
   }
 }

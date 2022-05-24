@@ -1,46 +1,5 @@
 import { ApiProperty } from '@nestjs/swagger';
 
-class TimeSlots {
-  @ApiProperty()
-  '@id': string;
-
-  @ApiProperty()
-  '@idblok': string;
-
-  @ApiProperty()
-  dodatniopis: any;
-
-  @ApiProperty()
-  grupastudenata: any;
-
-  @ApiProperty()
-  kraj: string;
-
-  @ApiProperty()
-  nastavnik: any;
-
-  @ApiProperty()
-  odradjeno: string;
-
-  @ApiProperty()
-  planirano: string;
-
-  @ApiProperty()
-  pocetak: string;
-
-  @ApiProperty()
-  predmet: any;
-
-  @ApiProperty()
-  prostorija: any;
-
-  @ApiProperty()
-  smjer: any;
-
-  @ApiProperty()
-  vrstanastave: any;
-}
-
 class RoomDetails {
   @ApiProperty()
   id: string;
@@ -74,14 +33,6 @@ class RoomDetails {
 
   @ApiProperty()
   zgrada: string;
-}
-
-export class RoomsResponseDto {
-  @ApiProperty()
-  date: Date;
-
-  @ApiProperty({ type: TimeSlots })
-  timeSlots: TimeSlots[];
 }
 
 export class BuildingsResponseDto {

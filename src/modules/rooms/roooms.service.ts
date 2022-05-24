@@ -1,8 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import raspored from '../../utils/mock.json';
 import roomList from '../../utils/roomList.json';
-import { unionBy, some } from 'lodash';
-import { groupBy } from 'lodash';
+import { unionBy, some, groupBy } from 'lodash';
 
 @Injectable()
 export class RoomsService {
@@ -34,7 +33,6 @@ export class RoomsService {
       (room) => room.zanastavu === '1',
     );
     const grouped_rooms = groupBy(filteredForClasses, 'zgrada');
-    console.log(grouped_rooms);
     return [
       {
         id: '1',

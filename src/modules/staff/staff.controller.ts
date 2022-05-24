@@ -1,5 +1,8 @@
-import { Controller, Get, Param } from '@nestjs/common';
-import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
+import { Controller, Get, Param, UseGuards } from '@nestjs/common';
+import { ApiOkResponse, ApiParam, ApiTags } from '@nestjs/swagger';
+import { AvailabilityResponseDto } from 'src/shared.dto/responses.dto';
+import { JwtAuthGuard } from '../auth/jwt-auth.guard';
+import { StaffResponseDto } from './dto/staffResponse.dto';
 import { StaffService } from './staff.service';
 
 @ApiTags('Staff')
@@ -7,22 +10,30 @@ import { StaffService } from './staff.service';
 export class StaffController {
   constructor(private readonly staffService: StaffService) {}
 
-  @Get('availability/:mat_broj')
+  @UseGuards(JwtAuthGuard)
+  @Get('availability/:date/:mat_broj')
   @ApiOkResponse({
     description: 'OK.',
     isArray: true,
-    //TODO: add type: GetStaffAvailabilty
+    type: AvailabilityResponseDto,
   })
-  getAvailabilty(@Param('mat_broj') mat_broj) {
-    return this.staffService.getAvailability(mat_broj);
+  @ApiParam({ name: 'date', required: true, type: 'date' })
+  @ApiParam({ name: 'mat_broj', required: true, type: 'string' })
+  getAvailabilty(
+    @Param('date') date: Date,
+    @Param('mat_broj') mat_broj: string,
+  ): Promise<AvailabilityResponseDto> {
+    return this.staffService.getAvailability(date, mat_broj);
   }
 
+  @UseGuards(JwtAuthGuard)
   @Get('list')
   @ApiOkResponse({
     description: 'OK.',
-    //TODO: add type: GetStaffList
+    isArray: true,
+    type: StaffResponseDto,
   })
-  getStaffList() {
+  getStaffList(): Promise<StaffResponseDto[]> {
     return this.staffService.getStaffList();
   }
 }

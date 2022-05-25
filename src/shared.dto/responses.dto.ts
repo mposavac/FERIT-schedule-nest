@@ -1,6 +1,6 @@
 import { ApiProperty } from '@nestjs/swagger';
 
-class TimeSlots {
+export class TimeSlots {
   @ApiProperty()
   '@id': string;
 

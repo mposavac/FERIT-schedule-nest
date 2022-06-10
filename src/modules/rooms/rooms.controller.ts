@@ -10,20 +10,22 @@ import { RoomsService } from './roooms.service';
 export class RoomsController {
   constructor(private readonly roomsService: RoomsService) {}
 
-  @UseGuards(JwtAuthGuard)
-  @Get('availability/:date/:id')
+  //@UseGuards(JwtAuthGuard)
+  @Get('availability/:start_date/:end_date/:id')
   @ApiOkResponse({
     description: 'OK.',
     isArray: true,
     type: AvailabilityResponseDto,
   })
-  @ApiParam({ name: 'date', required: true, type: 'date' })
+  @ApiParam({ name: 'start_date', required: true, type: 'date' })
+  @ApiParam({ name: 'end_date', required: true, type: 'date' })
   @ApiParam({ name: 'id', required: true, type: 'string' })
   getRoom(
-    @Param('date') date: Date,
+    @Param('start_date') start_date: Date,
+    @Param('end_date') end_date: Date,
     @Param('id') room_id: string,
-  ): Promise<AvailabilityResponseDto> {
-    return this.roomsService.getRoomAvailability(date, room_id);
+  ): Promise<AvailabilityResponseDto[]> {
+    return this.roomsService.getRoomAvailability(start_date, end_date, room_id);
   }
 
   @UseGuards(JwtAuthGuard)

@@ -10,7 +10,7 @@ import { RoomsService } from './roooms.service';
 export class RoomsController {
   constructor(private readonly roomsService: RoomsService) {}
 
-  //@UseGuards(JwtAuthGuard)
+  @UseGuards(JwtAuthGuard)
   @Get('availability/:start_date/:end_date/:id')
   @ApiOkResponse({
     description: 'OK.',

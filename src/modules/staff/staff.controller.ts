@@ -11,19 +11,21 @@ export class StaffController {
   constructor(private readonly staffService: StaffService) {}
 
   @UseGuards(JwtAuthGuard)
-  @Get('availability/:date/:mat_broj')
+  @Get('availability/:start_date/:end_date/:mat_broj')
   @ApiOkResponse({
     description: 'OK.',
     isArray: true,
     type: AvailabilityResponseDto,
   })
-  @ApiParam({ name: 'date', required: true, type: 'date' })
+  @ApiParam({ name: 'start_date', required: true, type: 'date' })
+  @ApiParam({ name: 'end_date', required: true, type: 'date' })
   @ApiParam({ name: 'mat_broj', required: true, type: 'string' })
   getAvailabilty(
-    @Param('date') date: Date,
+    @Param('start_date') start_date: Date,
+    @Param('end_date') end_date: Date,
     @Param('mat_broj') mat_broj: string,
-  ): Promise<AvailabilityResponseDto> {
-    return this.staffService.getAvailability(date, mat_broj);
+  ): Promise<AvailabilityResponseDto[]> {
+    return this.staffService.getAvailability(start_date, end_date, mat_broj);
   }
 
   @UseGuards(JwtAuthGuard)

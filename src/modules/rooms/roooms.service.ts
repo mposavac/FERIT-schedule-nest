@@ -1,31 +1,23 @@
 import { Injectable } from '@nestjs/common';
-import raspored from '../../utils/mock.json';
 import roomList from '../../utils/roomList.json';
 import { unionBy, some, groupBy } from 'lodash';
+import moment from 'moment';
+import { checkForJSON } from 'src/utils/checkForJSON';
+import { extractFromJSON } from 'src/utils/extractFromJSON';
 
 @Injectable()
 export class RoomsService {
   constructor() {}
 
-  async getRoomAvailability(date: Date, room_id: string) {
-    const filteredRooms = [];
-    const scheduledSlots = raspored.filter(
-      (value) =>
-        value.prostorija && value.prostorija['@idprostorije'] === room_id,
+  async getRoomAvailability(start_date: Date, end_date: Date, room_id: string) {
+    await checkForJSON(start_date, end_date);
+    const extractedFiles = await extractFromJSON(start_date, end_date);
+    return await this.filterByRoom(
+      start_date,
+      end_date,
+      extractedFiles,
+      room_id,
     );
-    const filteredByIdBlok = unionBy(scheduledSlots, '@idblok');
-    filteredByIdBlok.forEach((value: any) => {
-      if (
-        !some(filteredRooms, {
-          nastavnik: value.nastavnik,
-          pocetak: value.pocetak,
-          kraj: value.kraj,
-          predmet: value.predmet,
-        })
-      )
-        filteredRooms.push(value);
-    });
-    return { date: date, timeSlots: filteredRooms };
   }
 
   async getBuildings() {
@@ -65,5 +57,43 @@ export class RoomsService {
         prostorije: grouped_rooms['6'],
       },
     ];
+  }
+
+  async filterByRoom(
+    start_date: Date,
+    end_date: Date,
+    extractedFiles: any,
+    room_id: string,
+  ) {
+    const moment_start = moment(start_date);
+    const moment_end = moment(end_date);
+    const extractedData = [];
+    for (let i = 0; i <= moment_end.diff(moment_start, 'days'); i++) {
+      const curr_date = moment(start_date).add(i, 'days');
+      const curr_date_f = moment(curr_date).format('YYYY-MM-DD');
+      try {
+        const filteredRooms = [];
+        const scheduledSlots = extractedFiles[i].filter(
+          (value) =>
+            value.prostorija && value.prostorija['@idprostorije'] === room_id,
+        );
+        const filteredByIdBlok = unionBy(scheduledSlots, '@idblok');
+        filteredByIdBlok.forEach((value: any) => {
+          if (
+            !some(filteredRooms, {
+              nastavnik: value.nastavnik,
+              pocetak: value.pocetak,
+              kraj: value.kraj,
+              predmet: value.predmet,
+            })
+          )
+            filteredRooms.push(value);
+        });
+        extractedData.push({ date: curr_date_f, timeSlots: filteredRooms });
+      } catch (e) {
+        console.log(e);
+      }
+    }
+    return extractedData;
   }
 }

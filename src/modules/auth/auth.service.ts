@@ -122,10 +122,22 @@ export class AuthService {
 
   async refreshTokens(userDto: RefreshDto) {
     try {
+      this.jwtService.verify(userDto.refresh_token, {
+        secret: process.env.REFRESH_SECRET,
+      });
+    } catch (e) {
+      throw new HttpException(
+        {
+          status: HttpStatus.UNAUTHORIZED,
+          error: 'Invalid token!',
+        },
+        HttpStatus.UNAUTHORIZED,
+      );
+    }
+    try {
       const user = await this.userRepository.findOneOrFail({
         where: { id: userDto.id },
       });
-
       if (user) {
         const isMatch = await bcrypt.compare(
           userDto.refresh_token,
@@ -160,7 +172,7 @@ export class AuthService {
   async getTokens(payload: any) {
     const access_token = this.jwtService.sign(payload);
     const refresh_token = this.jwtService.sign(payload, {
-      secret: 'REFRESH',
+      secret: process.env.REFRESH_SECRET,
       expiresIn: 60 * 60 * 24 * 7 + 's',
     });
     return [access_token, refresh_token];

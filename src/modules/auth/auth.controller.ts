@@ -1,11 +1,4 @@
-import {
-  Controller,
-  Get,
-  Post,
-  UseGuards,
-  Request,
-  Body,
-} from '@nestjs/common';
+import { Controller, Post, Body } from '@nestjs/common';
 import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
 import { AuthService } from './auth.service';
 import { LoginDto } from './dto/login.dto';
@@ -13,7 +6,6 @@ import { LoginResponseDto } from './dto/loginResponse.dto';
 import { LogoutDto } from './dto/logout.dto';
 import { RefreshDto } from './dto/refresh.dto';
 import { SignUpDto } from './dto/signUp.dto';
-import { JwtAuthGuard } from './jwt-auth.guard';
 
 @ApiTags('Auth')
 @Controller('auth')
@@ -38,7 +30,6 @@ export class AuthController {
     return this.authService.login(user);
   }
 
-  @UseGuards(JwtAuthGuard)
   @Post('logout')
   @ApiOkResponse({
     description: 'Successful Logout.',
@@ -54,12 +45,5 @@ export class AuthController {
   })
   refresh(@Body() user: RefreshDto): Promise<LoginResponseDto> {
     return this.authService.refreshTokens(user);
-  }
-
-  // if is loged in example
-  @UseGuards(JwtAuthGuard)
-  @Get('protected')
-  getHello(@Request() req): any {
-    return req.user;
   }
 }

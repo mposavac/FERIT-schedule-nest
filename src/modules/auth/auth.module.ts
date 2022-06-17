@@ -13,7 +13,7 @@ import { UserEntity } from './auth.entity';
     TypeOrmModule.forFeature([UserEntity]),
     PassportModule,
     JwtModule.register({
-      secret: 'SECRET',
+      secret: 'iZWefzTV54',
       signOptions: { expiresIn: 60 * 60 + 's' },
     }),
   ],

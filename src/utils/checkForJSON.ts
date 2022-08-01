@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { XMLParser } from 'fast-xml-parser';
-import { existsSync, mkdir, writeFileSync } from 'fs';
+import { existsSync, mkdir, writeFileSync, statSync } from 'fs';
 import moment from 'moment';
 import { join } from 'path';
 
@@ -12,7 +12,6 @@ const fetchAndParse = async (date: string) => {
     responseEncoding: 'binary',
   });
   const decoder = new TextDecoder('windows-1250');
-
   const dataString = decoder.decode(response.data);
 
   const parser = new XMLParser({
@@ -21,7 +20,11 @@ const fetchAndParse = async (date: string) => {
     allowBooleanAttributes: true,
   });
   const data = parser.parse(dataString);
-  return data?.raspored?.stavkaRasporeda || [];
+  if (Array.isArray(data?.raspored?.stavkaRasporeda))
+    return data?.raspored?.stavkaRasporeda || [];
+  else if (typeof data?.raspored?.stavkaRasporeda === 'object')
+    return [data?.raspored?.stavkaRasporeda];
+  else return [];
 };
 
 export const checkForJSON = async (start_date: Date, end_date: Date) => {
@@ -36,10 +39,19 @@ export const checkForJSON = async (start_date: Date, end_date: Date) => {
   for (let i = 0; i <= moment_end.diff(moment_start, 'days'); i++) {
     const curr_date = moment(start_date).add(i, 'days');
     const curr_date_f = moment(curr_date).format('YYYY-MM-DD');
-    // TODO: Napraviti projveru jeli zadnji put promjenjen prije xy dana
+
     if (!existsSync(`${dir}/${curr_date_f}.json`)) {
       const raspored = await fetchAndParse(curr_date_f);
       writeFileSync(`${dir}/${curr_date_f}.json`, JSON.stringify(raspored));
+    } else {
+      const { mtime } = statSync(`${dir}/${curr_date_f}.json`);
+      if (
+        moment().diff(moment(mtime), 'days') >
+        parseInt(process.env.SCHEDULE_UPDATE_PERIOD)
+      ) {
+        const raspored = await fetchAndParse(curr_date_f);
+        writeFileSync(`${dir}/${curr_date_f}.json`, JSON.stringify(raspored));
+      }
     }
   }
 };

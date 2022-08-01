@@ -1,11 +1,12 @@
 import { Injectable } from '@nestjs/common';
-import raspored from '../../utils/mock.json';
 import roomList from '../../utils/roomList.json';
 import { some, groupBy } from 'lodash';
 import { find, findIndex } from 'lodash';
 import moment from 'moment';
 import { SchedulerDto } from './dto/scheduler.dto';
 import { SchedulerResponseDto } from './dto/schedulerResponse.dto';
+import { checkForJSON } from 'src/utils/checkForJSON';
+import { extractFromJSON } from 'src/utils/extractFromJSON';
 
 @Injectable()
 export class SchedulerService {
@@ -16,6 +17,8 @@ export class SchedulerService {
     capacity,
   }: SchedulerDto) {
     const availability: SchedulerResponseDto[] = [];
+    await checkForJSON(date, date);
+    const extractedFiles = await extractFromJSON(date, date);
     const capacityFiltered = roomList.prostorije.prostorija.filter(
       (value) =>
         value.zanastavu === '1' && parseInt(value.kapacitet) >= capacity,
@@ -31,7 +34,7 @@ export class SchedulerService {
     });
 
     const unavailableSlots = [];
-    raspored
+    extractedFiles[0]
       .filter((value) =>
         find(capacityFiltered, { '-id': value.prostorija['@idprostorije'] }),
       )

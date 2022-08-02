@@ -18,6 +18,9 @@ import { SchedulerModule } from './scheduler/scheduler.module';
       database: process.env.DATABASE,
       entities: ['dist/**/*.entity{.ts,.js}'],
       synchronize: true,
+      ssl: {
+        rejectUnauthorized: false,
+      },
     }),
     AuthModule,
     RoomsModule,

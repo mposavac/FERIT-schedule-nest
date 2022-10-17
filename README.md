@@ -1,3 +1,16 @@
+# FERIT RASPORED
+
+This project is a backend for managing the room availability and schedule of the staff as well as finding the best suitable room according to the user's needs.
+The application is developed as a part of the master’s thesis.
+
+## Used technologies:
+
+- NestJS
+- Typescript
+- PostgreSQL
+
+Endpoints are available on: http://localhost:3000/api/
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
